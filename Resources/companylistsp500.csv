@@ -65,7 +65,7 @@ BAC,Bank of America Corp,reports,Financials,Diversified Banks,"Charlotte, North 
 BK,The Bank of New York Mellon,reports,Financials,Asset Management & Custody Banks,"New York, New York",31/03/95,1390777,1784
 BAX,Baxter International Inc.,reports,Health Care,Health Care Equipment,"Deerfield, Illinois",30/09/72,10456,1931
 BDX,Becton Dickinson,reports,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",30/09/72,10795,1897
-BRK.B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",16/02/10,1067983,1839
+BRK,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",16/02/10,1067983,1839
 BBY,Best Buy Co. Inc.,reports,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",29/06/99,764478,1966
 BIO,Bio-Rad Laboratories,reports,Health Care,Life Sciences Tools & Services,"Hercules, California",22/06/20,12208,1952
 BIIB,Biogen Inc.,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",13/11/03,875045,1978
@@ -78,7 +78,6 @@ BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Ma
 BMY,Bristol-Myers Squibb,reports,Health Care,Health Care Distributors,"New York, New York",04/03/57,14272,1989
 AVGO,Broadcom Inc.,reports,Information Technology,Semiconductors,"San Jose, California",08/05/14,1730168,1961
 BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",18/06/18,1383312,1962
-BF.B,Brown-Forman Corp.,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",31/10/82,14693,1870
 CHRW,C. H. Robinson Worldwide,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",02/03/07,1043277,1905
 COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",23/06/08,858470,1989
 CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",18/09/17,813672,1988
