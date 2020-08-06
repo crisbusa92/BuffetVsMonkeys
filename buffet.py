@@ -3,15 +3,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random as rd
 import numpy as np
+import math
 
 
 def sp500_returns(symbols,period = '5y'):
     tickers_profit = []
     for x in symbols:
         ticker = yf.Ticker(x)
-        hist = ticker.history(period=period)
+        hist = ticker.history(period=period).dropna()
         profit = (hist.loc[hist.index[len(hist)-1],
                     'Close']/hist.loc[hist.index[0], 'Close'])-1
+
         tickers_profit.append(profit)
     sp5y = pd.DataFrame()
     sp5y['Ticker'] = list(symbols)
@@ -56,7 +58,8 @@ def monkey_returns(DF,diclist):
         suma = 0
         for y in x.keys():
             #Sum 
-            suma += float(DF[DF['Ticker'] == y]['5yr Return'] * x[y])
+            suma += float(DF[DF['Ticker'] == y]['5yr Return']) * x[y]
+        suma = suma/len(x.keys())
         returns.append(suma)
 
     return returns
