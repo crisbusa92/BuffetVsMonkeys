@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "Symbol","Name","LastSale","MarketCap","IPOyear","Sector","industry","Summary Quote",
 "DDD","3D Systems Corporation","6.8","$808.37M","n/a","Technology","Computer Software: Prepackaged Software","https://old.nasdaq.com/symbol/ddd",
 "MMM","3M Company","163.24","$93.9B","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/mmm",
@@ -3125,3 +3126,2668 @@
 "ZTO","ZTO Express (Cayman) Inc.","35.61","$27.91B","2016","Transportation","Trucking Freight/Courier Services","https://old.nasdaq.com/symbol/zto",
 "ZUO","Zuora, Inc.","11.74","$1.36B","2018","Technology","Computer Software: Prepackaged Software","https://old.nasdaq.com/symbol/zuo",
 "ZYME","Zymeworks Inc.","30.65","$1.4B","2017","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/zyme",
+=======
+﻿Symbol,Company Name,Industry
+MMM,3M Company,Industrials
+AOS,A.O. Smith Corp,Industrials
+ABT,Abbott Laboratories,Health Care
+ABBV,AbbVie Inc.,Health Care
+ABMD,ABIOMED Inc,Health Care
+ACN,Accenture plc,Information Technology
+ATVI,Activision Blizzard,Communication Services
+ADBE,Adobe Inc.,Information Technology
+AAP,Advance Auto Parts,Consumer Discretionary
+AMD,Advanced Micro Devices Inc,Information Technology
+AES,AES Corp,Utilities
+AFL,AFLAC Inc,Financials
+A,Agilent Technologies Inc,Health Care
+APD,Air Products & Chemicals Inc,Materials
+AKAM,Akamai Technologies Inc,Information Technology
+ALK,Alaska Air Group Inc,Industrials
+ARE,Alexandria Real Estate Equities,Real Estate
+ALB,Albemarle Corp,Materials
+ALXN,Alexion Pharmaceuticals,Health Care
+ALGN,Align Technology,Health Care
+ALLE,Allegion,Industrials
+LNT,Alliant Energy Corp,Utilities
+ALL,Allstate Corp,Financials
+GOOGL,Alphabet Inc. (Class A),Communication Services
+GOOG,Alphabet Inc. (Class C),Communication Services
+MO,Altria Group Inc,Consumer Staples
+AMZN,Amazon.com Inc.,Consumer Discretionary
+AMCR,Amcor plc,Materials
+AEE,Ameren Corp,Utilities
+AAL,American Airlines Group,Industrials
+AEP,American Electric Power,Utilities
+AXP,American Express Co,Financials
+AIG,American International Group,Financials
+AMT,American Tower Corp.,Real Estate
+AWK,American Water Works Company Inc,Utilities
+AMP,Ameriprise Financial,Financials
+ABC,AmerisourceBergen Corp,Health Care
+AME,AMETEK Inc.,Industrials
+AMGN,Amgen Inc.,Health Care
+APH,Amphenol Corp,Information Technology
+ADI,Analog Devices Inc.,Information Technology
+ANSS,ANSYS,Information Technology
+ANTM,Anthem,Health Care
+AON,Aon plc,Financials
+APA,Apache Corporation,Energy
+AIV,Apartment Investment & Management,Real Estate
+AAPL,Apple Inc.,Information Technology
+AMAT,Applied Materials Inc.,Information Technology
+APTV,Aptiv PLC,Consumer Discretionary
+ADM,Archer-Daniels-Midland Co,Consumer Staples
+ANET,Arista Networks,Information Technology
+AJG,Arthur J. Gallagher & Co.,Financials
+AIZ,Assurant,Financials
+T,AT&T Inc.,Communication Services
+ATO,Atmos Energy,Utilities
+ADSK,Autodesk Inc.,Information Technology
+ADP,Automatic Data Processing,Information Technology
+AZO,AutoZone Inc,Consumer Discretionary
+AVB,AvalonBay Communities,Real Estate
+AVY,Avery Dennison Corp,Materials
+BKR,Baker Hughes Co,Energy
+BLL,Ball Corp,Materials
+BAC,Bank of America Corp,Financials
+BAX,Baxter International Inc.,Health Care
+BDX,Becton Dickinson,Health Care
+BRK,Berkshire Hathaway,Financials
+BBY,Best Buy Co. Inc.,Consumer Discretionary
+BIO,Bio-Rad Laboratories,Health Care
+BIIB,Biogen Inc.,Health Care
+BLK,BlackRock,Financials
+BA,Boeing Company,Industrials
+BKNG,Booking Holdings Inc,Consumer Discretionary
+BWA,BorgWarner,Consumer Discretionary
+BXP,Boston Properties,Real Estate
+BSX,Boston Scientific,Health Care
+BMY,Bristol-Myers Squibb,Health Care
+AVGO,Broadcom Inc.,Information Technology
+BR,Broadridge Financial Solutions,Information Technology
+BF,Brown-Forman Corp.,Consumer Staples
+CHRW,C. H. Robinson Worldwide,Industrials
+COG,Cabot Oil & Gas,Energy
+CDNS,Cadence Design Systems,Information Technology
+CPB,Campbell Soup,Consumer Staples
+COF,Capital One Financial,Financials
+CAH,Cardinal Health Inc.,Health Care
+KMX,Carmax Inc,Consumer Discretionary
+CCL,Carnival Corp.,Consumer Discretionary
+CARR,Carrier Global,Industrials
+CAT,Caterpillar Inc.,Industrials
+CBOE,Cboe Global Markets,Financials
+CBRE,CBRE Group,Real Estate
+CDW,CDW,Information Technology
+CE,Celanese,Materials
+CNC,Centene Corporation,Health Care
+CNP,CenterPoint Energy,Utilities
+CTL,CenturyLink Inc,Communication Services
+CERN,Cerner,Health Care
+CF,CF Industries Holdings Inc,Materials
+SCHW,Charles Schwab Corporation,Financials
+CHTR,Charter Communications,Communication Services
+CVX,Chevron Corp.,Energy
+CMG,Chipotle Mexican Grill,Consumer Discretionary
+CB,Chubb Limited,Financials
+CHD,Church & Dwight,Consumer Staples
+CI,CIGNA Corp.,Health Care
+CINF,Cincinnati Financial,Financials
+CTAS,Cintas Corporation,Industrials
+CSCO,Cisco Systems,Information Technology
+C,Citigroup Inc.,Financials
+CFG,Citizens Financial Group,Financials
+CTXS,Citrix Systems,Information Technology
+CME,CME Group Inc.,Financials
+CMS,CMS Energy,Utilities
+KO,Coca-Cola Company,Consumer Staples
+CTSH,Cognizant Technology Solutions,Information Technology
+CL,Colgate-Palmolive,Consumer Staples
+CMCSA,Comcast Corp.,Communication Services
+CMA,Comerica Inc.,Financials
+CAG,Conagra Brands,Consumer Staples
+CXO,Concho Resources,Energy
+COP,ConocoPhillips,Energy
+ED,Consolidated Edison,Utilities
+STZ,Constellation Brands,Consumer Staples
+CPRT,Copart Inc,Industrials
+GLW,Corning Inc.,Information Technology
+CTVA,Corteva,Materials
+COST,Costco Wholesale Corp.,Consumer Staples
+COTY,Coty Inc,Consumer Staples
+CCI,Crown Castle International Corp.,Real Estate
+CSX,CSX Corp.,Industrials
+CMI,Cummins Inc.,Industrials
+CVS,CVS Health,Health Care
+DHI,D. R. Horton,Consumer Discretionary
+DHR,Danaher Corp.,Health Care
+DRI,Darden Restaurants,Consumer Discretionary
+DVA,DaVita Inc.,Health Care
+DE,Deere & Co.,Industrials
+DAL,Delta Air Lines Inc.,Industrials
+XRAY,Dentsply Sirona,Health Care
+DVN,Devon Energy,Energy
+DXCM,DexCom,Health Care
+FANG,Diamondback Energy,Energy
+DLR,Digital Realty Trust Inc,Real Estate
+DFS,Discover Financial Services,Financials
+DISCA,Discovery Inc. (Class A),Communication Services
+DISCK,Discovery Inc. (Class C),Communication Services
+DISH,Dish Network,Communication Services
+DG,Dollar General,Consumer Discretionary
+DLTR,Dollar Tree,Consumer Discretionary
+D,Dominion Energy,Utilities
+DPZ,Domino's Pizza,Consumer Discretionary
+DOV,Dover Corporation,Industrials
+DOW,Dow Inc.,Materials
+DTE,DTE Energy Co.,Utilities
+DUK,Duke Energy,Utilities
+DRE,Duke Realty Corp,Real Estate
+DD,DuPont de Nemours Inc,Materials
+DXC,DXC Technology,Information Technology
+ETFC,E*Trade,Financials
+EMN,Eastman Chemical,Materials
+ETN,Eaton Corporation,Industrials
+EBAY,eBay Inc.,Consumer Discretionary
+ECL,Ecolab Inc.,Materials
+EIX,Edison Int'l,Utilities
+EW,Edwards Lifesciences,Health Care
+EA,Electronic Arts,Communication Services
+EMR,Emerson Electric Company,Industrials
+ETR,Entergy Corp.,Utilities
+EOG,EOG Resources,Energy
+EFX,Equifax Inc.,Industrials
+EQIX,Equinix,Real Estate
+EQR,Equity Residential,Real Estate
+ESS,Essex Property Trust Inc.,Real Estate
+EL,Estée Lauder Companies,Consumer Staples
+RE,Everest Re Group Ltd.,Financials
+EVRG,Evergy,Utilities
+ES,Eversource Energy,Utilities
+EXC,Exelon Corp.,Utilities
+EXPE,Expedia Group,Consumer Discretionary
+EXPD,Expeditors,Industrials
+EXR,Extra Space Storage,Real Estate
+XOM,Exxon Mobil Corp.,Energy
+FFIV,F5 Networks,Information Technology
+FB,Facebook Inc.,Communication Services
+FAST,Fastenal Co,Industrials
+FRT,Federal Realty Investment Trust,Real Estate
+FDX,FedEx Corporation,Industrials
+FIS,Fidelity National Information Services,Information Technology
+FITB,Fifth Third Bancorp,Financials
+FRC,First Republic Bank,Financials
+FE,FirstEnergy Corp,Utilities
+FISV,Fiserv Inc,Information Technology
+FLT,FleetCor Technologies Inc,Information Technology
+FLIR,FLIR Systems,Information Technology
+FLS,Flowserve Corporation,Industrials
+FMC,FMC Corporation,Materials
+F,Ford Motor Company,Consumer Discretionary
+FTNT,Fortinet,Information Technology
+FTV,Fortive Corp,Industrials
+FBHS,Fortune Brands Home & Security,Industrials
+FOXA,Fox Corporation (Class A),Communication Services
+FOX,Fox Corporation (Class B),Communication Services
+BEN,Franklin Resources,Financials
+FCX,Freeport-McMoRan Inc.,Materials
+GPS,Gap Inc.,Consumer Discretionary
+GRMN,Garmin Ltd.,Consumer Discretionary
+IT,Gartner Inc,Information Technology
+GD,General Dynamics,Industrials
+GE,General Electric,Industrials
+GIS,General Mills,Consumer Staples
+GM,General Motors,Consumer Discretionary
+GPC,Genuine Parts,Consumer Discretionary
+GILD,Gilead Sciences,Health Care
+GPN,Global Payments Inc.,Information Technology
+GL,Globe Life Inc.,Financials
+GS,Goldman Sachs Group,Financials
+GWW,Grainger (W.W.) Inc.,Industrials
+HRB,H&R Block,Consumer Discretionary
+HAL,Halliburton Co.,Energy
+HBI,Hanesbrands Inc,Consumer Discretionary
+HIG,Hartford Financial Svc.Gp.,Financials
+HAS,Hasbro Inc.,Consumer Discretionary
+HCA,HCA Healthcare,Health Care
+PEAK,Healthpeak Properties,Real Estate
+HSIC,Henry Schein,Health Care
+HES,Hess Corporation,Energy
+HPE,Hewlett Packard Enterprise,Information Technology
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary
+HFC,HollyFrontier Corp,Energy
+HOLX,Hologic,Health Care
+HD,Home Depot,Consumer Discretionary
+HON,Honeywell Int'l Inc.,Industrials
+HRL,Hormel Foods Corp.,Consumer Staples
+HST,Host Hotels & Resorts,Real Estate
+HWM,Howmet Aerospace,Industrials
+HPQ,HP Inc.,Information Technology
+HUM,Humana Inc.,Health Care
+HBAN,Huntington Bancshares,Financials
+HII,Huntington Ingalls Industries,Industrials
+IEX,IDEX Corporation,Industrials
+IDXX,IDEXX Laboratories,Health Care
+INFO,IHS Markit Ltd.,Industrials
+ITW,Illinois Tool Works,Industrials
+ILMN,Illumina Inc,Health Care
+INCY,Incyte,Health Care
+IR,Ingersoll Rand,Industrials
+INTC,Intel Corp.,Information Technology
+ICE,Intercontinental Exchange,Financials
+IBM,International Business Machines,Information Technology
+IFF,International Flavors & Fragrances,Materials
+IP,International Paper,Materials
+IPG,Interpublic Group,Communication Services
+INTU,Intuit Inc.,Information Technology
+ISRG,Intuitive Surgical Inc.,Health Care
+IVZ,Invesco Ltd.,Financials
+IPGP,IPG Photonics Corp.,Information Technology
+IQV,IQVIA Holdings Inc.,Health Care
+IRM,Iron Mountain Incorporated,Real Estate
+JBHT,J. B. Hunt Transport Services,Industrials
+JKHY,Jack Henry & Associates,Information Technology
+J,Jacobs Engineering Group,Industrials
+SJM,JM Smucker,Consumer Staples
+JNJ,Johnson & Johnson,Health Care
+JCI,Johnson Controls International,Industrials
+JPM,JPMorgan Chase & Co.,Financials
+JNPR,Juniper Networks,Information Technology
+KSU,Kansas City Southern,Industrials
+K,Kellogg Co.,Consumer Staples
+KEY,KeyCorp,Financials
+KEYS,Keysight Technologies,Information Technology
+KMB,Kimberly-Clark,Consumer Staples
+KIM,Kimco Realty,Real Estate
+KMI,Kinder Morgan,Energy
+KLAC,KLA Corporation,Information Technology
+KSS,Kohl's Corp.,Consumer Discretionary
+KHC,Kraft Heinz Co,Consumer Staples
+KR,Kroger Co.,Consumer Staples
+LB,L Brands Inc.,Consumer Discretionary
+LHX,L3Harris Technologies,Industrials
+LH,Laboratory Corp. of America Holding,Health Care
+LRCX,Lam Research,Information Technology
+LW,Lamb Weston Holdings Inc,Consumer Staples
+LVS,Las Vegas Sands,Consumer Discretionary
+LEG,Leggett & Platt,Consumer Discretionary
+LDOS,Leidos Holdings,Information Technology
+LEN,Lennar Corp.,Consumer Discretionary
+LLY,Lilly (Eli) & Co.,Health Care
+LNC,Lincoln National,Financials
+LIN,Linde plc,Materials
+LYV,Live Nation Entertainment,Communication Services
+LKQ,LKQ Corporation,Consumer Discretionary
+LMT,Lockheed Martin Corp.,Industrials
+L,Loews Corp.,Financials
+LOW,Lowe's Cos.,Consumer Discretionary
+LYB,LyondellBasell,Materials
+MTB,M&T Bank Corp.,Financials
+MRO,Marathon Oil Corp.,Energy
+MPC,Marathon Petroleum,Energy
+MKTX,MarketAxess,Financials
+MAR,Marriott Int'l.,Consumer Discretionary
+MMC,Marsh & McLennan,Financials
+MLM,Martin Marietta Materials,Materials
+MAS,Masco Corp.,Industrials
+MA,Mastercard Inc.,Information Technology
+MXIM,Maxim Integrated Products Inc,Information Technology
+MKC,McCormick & Co.,Consumer Staples
+MCD,McDonald's Corp.,Consumer Discretionary
+MCK,McKesson Corp.,Health Care
+MDT,Medtronic plc,Health Care
+MRK,Merck & Co.,Health Care
+MET,MetLife Inc.,Financials
+MTD,Mettler Toledo,Health Care
+MGM,MGM Resorts International,Consumer Discretionary
+MCHP,Microchip Technology,Information Technology
+MU,Micron Technology,Information Technology
+MSFT,Microsoft Corp.,Information Technology
+MAA,Mid-America Apartments,Real Estate
+MHK,Mohawk Industries,Consumer Discretionary
+TAP,Molson Coors Beverage Company,Consumer Staples
+MDLZ,Mondelez International,Consumer Staples
+MNST,Monster Beverage,Consumer Staples
+MCO,Moody's Corp,Financials
+MS,Morgan Stanley,Financials
+MSI,Motorola Solutions Inc.,Information Technology
+MSCI,MSCI Inc,Financials
+MYL,Mylan N.V.,Health Care
+NDAQ,Nasdaq Inc.,Financials
+NOV,National Oilwell Varco Inc.,Energy
+NTAP,NetApp,Information Technology
+NFLX,Netflix Inc.,Communication Services
+NWL,Newell Brands,Consumer Discretionary
+NEM,Newmont Corporation,Materials
+NWSA,News Corp. Class A,Communication Services
+NWS,News Corp. Class B,Communication Services
+NEE,NextEra Energy,Utilities
+NLSN,Nielsen Holdings,Industrials
+NKE,Nike Inc.,Consumer Discretionary
+NI,NiSource Inc.,Utilities
+NBL,Noble Energy Inc,Energy
+NSC,Norfolk Southern Corp.,Industrials
+NTRS,Northern Trust Corp.,Financials
+NOC,Northrop Grumman,Industrials
+NLOK,NortonLifeLock,Information Technology
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary
+NRG,NRG Energy,Utilities
+NUE,Nucor Corp.,Materials
+NVDA,Nvidia Corporation,Information Technology
+NVR,NVR Inc.,Consumer Discretionary
+ORLY,O'Reilly Automotive,Consumer Discretionary
+OXY,Occidental Petroleum,Energy
+ODFL,Old Dominion Freight Line,Industrials
+OMC,Omnicom Group,Communication Services
+OKE,ONEOK,Energy
+ORCL,Oracle Corp.,Information Technology
+OTIS,Otis Worldwide,Industrials
+PCAR,PACCAR Inc.,Industrials
+PKG,Packaging Corporation of America,Materials
+PH,Parker-Hannifin,Industrials
+PAYX,Paychex Inc.,Information Technology
+PAYC,Paycom,Information Technology
+PYPL,PayPal,Information Technology
+PNR,Pentair plc,Industrials
+PBCT,People's United Financial,Financials
+PEP,PepsiCo Inc.,Consumer Staples
+PKI,PerkinElmer,Health Care
+PRGO,Perrigo,Health Care
+PFE,Pfizer Inc.,Health Care
+PM,Philip Morris International,Consumer Staples
+PSX,Phillips 66,Energy
+PNW,Pinnacle West Capital,Utilities
+PXD,Pioneer Natural Resources,Energy
+PNC,PNC Financial Services,Financials
+PPG,PPG Industries,Materials
+PPL,PPL Corp.,Utilities
+PFG,Principal Financial Group,Financials
+PG,Procter & Gamble,Consumer Staples
+PGR,Progressive Corp.,Financials
+PLD,Prologis,Real Estate
+PRU,Prudential Financial,Financials
+PEG,Public Service Enterprise Group (PSEG),Utilities
+PSA,Public Storage,Real Estate
+PHM,PulteGroup,Consumer Discretionary
+PVH,PVH Corp.,Consumer Discretionary
+QRVO,Qorvo,Information Technology
+QCOM,QUALCOMM Inc.,Information Technology
+PWR,Quanta Services Inc.,Industrials
+DGX,Quest Diagnostics,Health Care
+RL,Ralph Lauren Corporation,Consumer Discretionary
+RJF,Raymond James Financial Inc.,Financials
+RTX,Raytheon Technologies,Industrials
+O,Realty Income Corporation,Real Estate
+REG,Regency Centers Corporation,Real Estate
+REGN,Regeneron Pharmaceuticals,Health Care
+RF,Regions Financial Corp.,Financials
+RSG,Republic Services Inc,Industrials
+RMD,ResMed,Health Care
+RHI,Robert Half International,Industrials
+ROK,Rockwell Automation Inc.,Industrials
+ROL,Rollins Inc.,Industrials
+ROP,Roper Technologies,Industrials
+ROST,Ross Stores,Consumer Discretionary
+RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary
+SPGI,S&P Global Inc.,Financials
+CRM,Salesforce.com,Information Technology
+SBAC,SBA Communications,Real Estate
+SLB,Schlumberger Ltd.,Energy
+STX,Seagate Technology,Information Technology
+SEE,Sealed Air,Materials
+SRE,Sempra Energy,Utilities
+NOW,ServiceNow,Information Technology
+SHW,Sherwin-Williams,Materials
+SPG,Simon Property Group Inc,Real Estate
+SWKS,Skyworks Solutions,Information Technology
+SLG,SL Green Realty,Real Estate
+SNA,Snap-on,Industrials
+SO,Southern Company,Utilities
+LUV,Southwest Airlines,Industrials
+SWK,Stanley Black & Decker,Industrials
+SBUX,Starbucks Corp.,Consumer Discretionary
+STT,State Street Corp.,Financials
+STE,STERIS plc,Health Care
+SYK,Stryker Corp.,Health Care
+SIVB,SVB Financial,Financials
+SYF,Synchrony Financial,Financials
+SNPS,Synopsys Inc.,Information Technology
+SYY,Sysco Corp.,Consumer Staples
+TMUS,T-Mobile US,Communication Services
+TROW,T. Rowe Price Group,Financials
+TTWO,Take-Two Interactive,Communication Services
+TPR,Tapestry Inc.,Consumer Discretionary
+TGT,Target Corp.,Consumer Discretionary
+TEL,TE Connectivity Ltd.,Information Technology
+FTI,TechnipFMC,Energy
+TDY,Teledyne Technologies,Industrials
+TFX,Teleflex,Health Care
+TXN,Texas Instruments,Information Technology
+TXT,Textron Inc.,Industrials
+BK,The Bank of New York Mellon,Financials
+CLX,The Clorox Company,Consumer Staples
+COO,The Cooper Companies,Health Care
+HSY,The Hershey Company,Consumer Staples
+MOS,The Mosaic Company,Materials
+TRV,The Travelers Companies Inc.,Financials
+DIS,The Walt Disney Company,Communication Services
+TMO,Thermo Fisher Scientific,Health Care
+TIF,Tiffany & Co.,Consumer Discretionary
+TJX,TJX Companies Inc.,Consumer Discretionary
+TSCO,Tractor Supply Company,Consumer Discretionary
+TT,Trane Technologies plc,Industrials
+TDG,TransDigm Group,Industrials
+TFC,Truist Financial,Financials
+TWTR,Twitter Inc.,Communication Services
+TYL,Tyler Technologies,Information Technology
+TSN,Tyson Foods,Consumer Staples
+USB,U.S. Bancorp,Financials
+UDR,UDR Inc.,Real Estate
+ULTA,Ulta Beauty,Consumer Discretionary
+UAA,Under Armour (Class A),Consumer Discretionary
+UA,Under Armour (Class C),Consumer Discretionary
+UNP,Union Pacific Corp,Industrials
+UAL,United Airlines Holdings,Industrials
+UNH,United Health Group Inc.,Health Care
+UPS,United Parcel Service,Industrials
+URI,United Rentals Inc.,Industrials
+UHS,Universal Health Services,Health Care
+UNM,Unum Group,Financials
+VLO,Valero Energy,Energy
+VAR,Varian Medical Systems,Health Care
+VTR,Ventas Inc,Real Estate
+VRSN,Verisign Inc.,Information Technology
+VRSK,Verisk Analytics,Industrials
+VZ,Verizon Communications,Communication Services
+VRTX,Vertex Pharmaceuticals Inc,Health Care
+VFC,VF Corporation,Consumer Discretionary
+VIAC,ViacomCBS,Communication Services
+V,Visa Inc.,Information Technology
+VNO,Vornado Realty Trust,Real Estate
+VMC,Vulcan Materials,Materials
+WRB,W. R. Berkley Corporation,Financials
+WAB,Wabtec Corporation,Industrials
+WBA,Walgreens Boots Alliance,Consumer Staples
+WMT,Walmart,Consumer Staples
+WM,Waste Management Inc.,Industrials
+WAT,Waters Corporation,Health Care
+WEC,WEC Energy Group,Utilities
+WFC,Wells Fargo,Financials
+WELL,Welltower Inc.,Real Estate
+WST,West Pharmaceutical Services,Health Care
+WDC,Western Digital,Information Technology
+WU,Western Union Co,Information Technology
+WRK,WestRock,Materials
+WY,Weyerhaeuser,Real Estate
+WHR,Whirlpool Corp.,Consumer Discretionary
+WMB,Williams Companies,Energy
+WLTW,Willis Towers Watson,Financials
+WYNN,Wynn Resorts Ltd,Consumer Discretionary
+XEL,Xcel Energy Inc,Utilities
+XRX,Xerox,Information Technology
+XLNX,Xilinx,Information Technology
+XYL,Xylem Inc.,Industrials
+YUM,Yum! Brands Inc,Consumer Discretionary
+ZBRA,Zebra Technologies,Information Technology
+ZBH,Zimmer Biomet Holdings,Health Care
+ZION,Zions Bancorp,Financials
+ZTS,Zoetis,Health Care
+CLDR,"Cloudera, Inc.",11.48
+CLDT,Chatham Lodging Trust (REIT),5.16
+CLF,Cleveland-Cliffs Inc.,5.89
+CLGX,"CoreLogic, Inc.",68.73
+CLH,"Clean Harbors, Inc.",59.75
+CLI,Mack-Cali Realty Corporation,14.4
+CLNC,"Colony Credit Real Estate, Inc.",6.41
+CLNY,"Colony Capital, Inc.",1.8
+CLPR,Clipper Realty Inc.,6.62
+CLR,"Continental Resources, Inc.",17.4
+CLS,"Celestica, Inc.",7
+CLW,Clearwater Paper Corporation,38.84
+CLX,Clorox Company (The),229.22
+CM,Canadian Imperial Bank of Commerce,69.66
+CMA,Comerica Incorporated,36.84
+CMC,Commercial Metals Company,20.65
+CMCM,Cheetah Mobile Inc.,2.42
+CMD,Cantel Medical Corp.,50.51
+CMG,"Chipotle Mexican Grill, Inc.",1142.93
+CMI,Cummins Inc.,190.96
+CMO,Capstead Mortgage Corporation,5.96
+CMP,"Compass Minerals International, Inc.",52.85
+CMRE,Costamare Inc.,5.12
+CMS,CMS Energy Corporation,62.99
+CMSA,CMS Energy Corporation,27.2
+CMSC,CMS Energy Corporation,27.4299
+CMSD,CMS Energy Corporation,28.1855
+CMU,Colonial Municipal Income Trust,4.29
+CNA,CNA Financial Corporation,33.66
+CNC,Centene Corporation,67.27
+CNF,CNFinance Holdings Limited,3.59
+CNHI,CNH Industrial N.V.,7.57
+CNI,Canadian National Railway Company,96.86
+CNK,Cinemark Holdings Inc,12.08
+CNMD,CONMED Corporation,84.58
+CNNE,"Cannae Holdings, Inc.",37.56
+CNO,"CNO Financial Group, Inc.",15.77
+CNP,"CenterPoint Energy, Inc.",19.07
+CNQ,Canadian Natural Resources Limited,18.77
+CNR,"Cornerstone Building Brands, Inc.",6
+CNS,Cohen & Steers Inc,64.61
+CNX,CNX Resources Corporation,8.78
+CNXM,CNX Midstream Partners LP,8.09
+CO,Global Cord Blood Corporation,3.46
+CODI,Compass Diversified Holdings,15.94
+COE,China Online Education Group,23.05
+COF,Capital One Financial Corporation,65.74
+COG,Cabot Oil & Gas Corporation,17.97
+COLD,Americold Realty Trust,39.36
+COO,"The Cooper Companies, Inc. ",286.38
+COP,ConocoPhillips,39.77
+COR,CoreSite Realty Corporation,126.05
+CORR,"CorEnergy Infrastructure Trust, Inc.",8.19
+COTY,Coty Inc.,4.01
+CP,Canadian Pacific Railway Limited,276.87
+CPA,"Copa Holdings, S.A.",44.28
+CPAC,Cementos Pacasmayo S.A.A.,8.3567
+CPB,Campbell Soup Company,49.49
+CPE,Callon Petroleum Company,1.31
+CPF,CPB Inc.,14.55
+CPG,Crescent Point Energy Corporation,1.73
+CPK,Chesapeake Utilities Corporation,83.96
+CPLG,CorePoint Lodging Inc.,4.96
+CPRI,Capri Holdings Limited,14.72
+CPS,Cooper-Standard Holdings Inc.,11.3
+CPSR.U,Capstar Special Purpose Acquisition Corp.,n/a
+CPT,Camden Property Trust,89.25
+CR,Crane Co.,61.41
+CRD.A,Crawford & Company,n/a
+CRD.B,Crawford & Company,n/a
+CRH,CRH PLC,38.84
+CRI,"Carter&#39;s, Inc.",87.98
+CRK,"Comstock Resources, Inc.",5.34
+CRL,"Charles River Laboratories International, Inc.",199.93
+CRM,Salesforce.com Inc,190.96
+CRS,Carpenter Technology Corporation,22.83
+CRT,Cross Timbers Royalty Trust,6.63
+CRY,"CryoLife, Inc.",18.89
+CS,Credit Suisse Group,10.63
+CSL,Carlisle Companies Incorporated,121.99
+CSLT,"Castlight Health, inc.",1.09
+CSPR,Casper Sleep Inc.,8.02
+CSTM,Constellium SE,8.92
+CSU,Capital Senior Living Corporation,0.5926
+CSV,"Carriage Services, Inc.",19.42
+CTAA,Qwest Corporation,25.88
+CTB,Cooper Tire & Rubber Company,31.92
+CTBB,Qwest Corporation,24.25
+CTDD,Qwest Corporation,25.13
+CTEST,NYSE Test One,25.01
+CTEST.E,NYSE Test One,n/a
+CTEST.G,NYSE Test One,n/a
+CTEST.L,NYSE Test One,n/a
+CTEST.O,NYSE Test One,n/a
+CTEST.S,NYSE Test One,n/a
+CTEST.V,NYSE Test One,n/a
+CTK,CooTek (Cayman) Inc.,6.75
+CTL,"CenturyLink, Inc.",9.7
+CTLT,"Catalent, Inc.",83.25
+CTR,ClearBridge MLP and Midstream Total Return Fund In,2.52
+CTRA,"Contura Energy, Inc.",3.47
+CTS,CTS Corporation,20.47
+CTT           ,"CatchMark Timber Trust, Inc.",9.54
+CTV,Qwest Corporation,25.17
+CTVA,"Corteva, Inc.",28.81
+CTY,Qwest Corporation,23.382
+CTZ,Qwest Corporation,24.5128
+CUB,Cubic Corporation,40.04
+CUBB,"Customers Bancorp, Inc",20.09
+CUBE,CubeSmart,27.69
+CUBI,"Customers Bancorp, Inc",10.51
+CUK,Carnival Corporation,11.3
+CULP,"Culp, Inc.",10.07
+CURO,CURO Group Holdings Corp.,7.1
+CUZ,Cousins Properties Incorporated,28.99
+CVA,Covanta Holding Corporation,9.76
+CVE,Cenovus Energy Inc,5.07
+CVEO,Civeo Corporation,0.5094
+CVI,CVR Energy Inc.,19.5
+CVNA,Carvana Co.,150.83
+CVS,CVS Health Corporation,62.57
+CVX,Chevron Corporation,91.04
+CW,Curtiss-Wright Corporation,90
+CWEN,"Clearway Energy, Inc.",23.93
+CWEN.A,"Clearway Energy, Inc.",n/a
+CWH,"Camping World Holdings, Inc.",38.17
+CWK,Cushman & Wakefield plc,10.66
+CWT,California Water  Service Group Holding,49.25
+CX,Cemex S.A.B. de C.V.,3.17
+CXE,Colonial High Income Municipal Trust,4.92
+CXH,Colonial Investment Grade Municipal Trust,9.66
+CXO,Concho Resources Inc.,52.68
+CXP,"Columbia Property Trust, Inc.",11.75
+CXW,"CoreCivic, Inc.",8.84
+CYD,China Yuchai International Limited,13.53
+CYH,"Community Health Systems, Inc.",3.94
+CZZ,Cosan Limited,18.74
+D,"Dominion Energy, Inc.",80.22
+DAC,Danaos Corporation,3.6
+DAL,"Delta Air Lines, Inc.",25.5
+DAN,Dana Incorporated,12.72
+DAO,"Youdao, Inc.",38.43
+DAR,Darling Ingredients Inc.,27.7
+DAVA,Endava plc,52.53
+DB,Deutsche Bank AG,9.55
+DBD,Diebold Nixdorf Incorporated,6.42
+DBI,Designer Brands Inc.,6
+DBL,DoubleLine Opportunistic Credit Fund,19.22
+DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund,8.075
+DCI,"Donaldson Company, Inc.",48.85
+DCO,Ducommun Incorporated,33.7
+DCP,DCP Midstream LP,12.1
+DCUE,"Dominion Energy, Inc.",102.94
+DD,"DuPont de Nemours, Inc.",55.35
+DDD,3D Systems Corporation,6.8
+DDF,"Delaware Investments Dividend & Income Fund, Inc.",8.37
+DDS,"Dillard&#39;s, Inc.",23.9
+DDT,"Dillard&#39;s, Inc.",18.87
+DE,Deere & Company,176
+DEA,"Easterly Government Properties, Inc.",23.14
+DECK,Deckers Outdoor Corporation,211.12
+DEH.U,D8 Holdings Corp.,n/a
+DEI,"Douglas Emmett, Inc.",28.76
+DELL,Dell Technologies Inc.,60.96
+DEO,Diageo plc,145.11
+DESP,"Despegar.com, Corp.",8
+DEX,Delaware Enhanced Global Dividend,8.56
+DFIN,"Donnelley Financial Solutions, Inc.",8.18
+DFNS,LGL Systems Acquisition Corp.,10.25
+DFNS.U,LGL Systems Acquisition Corp.,n/a
+DFNS.WS,LGL Systems Acquisition Corp.,n/a
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,25.44
+DFS,Discover Financial Services,51.76
+DG,Dollar General Corporation,189.95
+DGX,Quest Diagnostics Incorporated,124.04
+DHF,BNY Mellon High Yield Strategies Fund,2.67
+DHI,"D.R. Horton, Inc.",66.57
+DHR,Danaher Corporation,198.98
+DHT,"DHT Holdings, Inc.",5.64
+DHX,"DHI Group, Inc.",2.58
+DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund,13.68
+DIN,"Dine Brands Global, Inc.",42.43
+DIS,Walt Disney Company (The),116.31
+DK,"Delek US Holdings, Inc.",17.51
+DKL,"Delek Logistics Partners, L.P.",28.09
+DKS,Dick&#39;s Sporting Goods Inc,46.04
+DL,China Distance Education Holdings Limited,8.78
+DLB,Dolby Laboratories,69.6
+DLNG,Dynagas LNG Partners LP,3.11
+DLPH,Delphi Technologies PLC,16.26
+DLR,"Digital Realty Trust, Inc.",151.01
+DLX,Deluxe Corporation,20.44
+DLY,DoubleLine Yield Opportunities Fund,18.63
+DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc",13.6
+DMO,Western Asset Mortgage Opportunity Fund Inc.,14.21
+DMS,"Digital Media Solutions, Inc.",7.41
+DMS.WS,"Digital Media Solutions, Inc.",n/a
+DMYT,"dMY Technology Group, Inc.",11.85
+DMYT.U,"dMY Technology Group, Inc.",n/a
+DMYT.WS,"dMY Technology Group, Inc.",n/a
+DNB,"Dun & Bradstreet Holdings, Inc.",25.29
+DNI,Dividend and Income Fund,10.59
+DNK,Phoenix Tree Holdings Limited,9
+DNOW,NOW Inc.,8.74
+DNP,"Duff & Phelps Utilities Income, Inc.",10.94
+DNR,Denbury Resources Inc.,0.23
+DOC,Physicians Realty Trust,17.65
+DOOR,Masonite International Corporation,87.82
+DOV,Dover Corporation,106.25
+DOW,Dow Inc.,44
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,11.48
+DPZ,Domino&#39;s Pizza Inc,389.61
+DQ,DAQO New Energy Corp.,109.39
+DRD,DRDGOLD Limited,17.71
+DRE,Duke Realty Corporation,37.72
+DRH,Diamondrock Hospitality Company,4.71
+DRI,"Darden Restaurants, Inc.",76.37
+DRQ,"Dril-Quip, Inc.",35.02
+DRUA,"Dominion Energy, Inc.",26.17
+DS,Drive Shack Inc.,1.66
+DSE,Duff & Phelps Select MLP and Midstream Energy Fund,0.4521
+DSL,DoubleLine Income Solutions Fund,15.44
+DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",7.5
+DSSI,Diamond S Shipping Inc.,8.51
+DSU,"Blackrock Debt Strategies Fund, Inc.",9.7
+DSX,Diana Shipping inc.,1.37
+DT,"Dynatrace, Inc.",42.4
+DTE,DTE Energy Company,114.01
+DTF,"Duff & Phelps Utilities Tax-Free Income, Inc.",14.3552
+DTJ,DTE Energy Company,25.85
+DTP,DTE Energy Company,44.22
+DTQ,DTE Energy Company,25.5868
+DTW,DTE Energy Company,26.061
+DTY,DTE Energy Company,26.46
+DUC,"Duff & Phelps Utility & Corporate Bond Trust, Inc.",9.33
+DUK,Duke Energy Corporation,81.29
+DUKB,Duke Energy Corporation,27.76
+DUKH,Duke Energy Corporation,25.82
+DVA,DaVita Inc.,88.49
+DVD,"Dover Motorsports, Inc.",1.425
+DVN,Devon Energy Corporation,10.43
+DX,"Dynex Capital, Inc.",15.22
+DXC,DXC Technology Company,17.13
+DY,"Dycom Industries, Inc.",43.46
+DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust,19.8
+E,ENI S.p.A.,19.82
+EAB,"Entergy Arkansas, LLC",25.6
+EAE,"Entergy Arkansas, LLC",25.73
+EAF,GrafTech International Ltd.,6.52
+EAI,"Entergy Arkansas, LLC",25.93
+EARN,Ellington Residential Mortgage REIT,10.58
+EAT,"Brinker International, Inc.",26.47
+EB,"Eventbrite, Inc.",8.68
+EBF,"Ennis, Inc.",17.26
+EBR,Centrais Electricas Brasileiras S.A.- Eletrobras,7.54
+EBR.B,Centrais Electricas Brasileiras S.A.- Eletrobras,n/a
+EBS,"Emergent Biosolutions, Inc.",94.78
+EC,Ecopetrol S.A.,12.2
+ECC           ,Eagle Point Credit Company Inc.,7.33
+ECCB,Eagle Point Credit Company Inc.,24.2
+ECCX,Eagle Point Credit Company Inc.,23.56
+ECCY,Eagle Point Credit Company Inc.,23.53
+ECL,Ecolab Inc.,212.04
+ECOM          ,ChannelAdvisor Corporation,21.13
+ECT,ECA Marcellus Trust I,0.4279
+ED,Consolidated Edison Inc,74.76
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",5.79
+EDF,Stone Harbor Emerging Markets Income Fund,6.95
+EDI,Stone Harbor Emerging Markets Total Income Fund,7.7157
+EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),4.21
+EDU,"New Oriental Education & Technology Group, Inc.",139.75
+EE,El Paso Electric Company,68.4
+EEA,"European Equity Fund, Inc. (The)",9.19
+EEX,"Emerald Holding, Inc.",2.85
+EFC,Ellington Financial Inc.,12
+EFF,Eaton vance Floating-Rate Income Plus Fund,14.03
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,8.33
+EFR,Eaton Vance Senior Floating-Rate Fund,11.42
+EFT,Eaton Vance Floating Rate Income Trust,11.57
+EFX,"Equifax, Inc.",165.36
+EGF,"Blackrock Enhanced Government Fund, Inc",13.26
+EGHT,8x8 Inc,16.42
+EGO,Eldorado Gold Corporation,12.33
+EGP,"EastGroup Properties, Inc.",124.07
+EGY,"VAALCO Energy, Inc. ",1.18
+EHC,Encompass Health Corporation,66.78
+EHI,Western Asset Global High Income Fund Inc,9.71
+EHT,Eaton Vance High Income 2021 Target Term Trust,9.57
+EIC,Eagle Point Income Company Inc.,12.76
+EIG,Employers Holdings Inc,33.22
+EIX,Edison International,53.16
+EL,"Estee Lauder Companies, Inc. (The)",192.84
+ELAN,Elanco Animal Health Incorporated,21.3
+ELAT,Elanco Animal Health Incorporated,37.86
+ELC,"Entergy Louisiana, Inc.",25.91
+ELF,"e.l.f. Beauty, Inc.",17.58
+ELJ,"Entergy Louisiana, Inc.",26.04
+ELP,Companhia Paranaense de Energia (COPEL),12.53
+ELS,"Equity Lifestyle Properties, Inc.",65.43
+ELU,"Entergy Louisiana, Inc.",25.52
+ELVT,"Elevate Credit, Inc.",1.72
+ELY,Callaway Golf Company,18.99
+EMD,Western Asset Emerging Markets Debt Fund Inc,12.4
+EME,"EMCOR Group, Inc.",64.49
+EMF,Templeton Emerging Markets Fund,15.25
+EMN,Eastman Chemical Company,78.42
+EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,2.16
+EMP,"Entergy Mississippi, LLC",26
+EMR,Emerson Electric Company,63.41
+ENB,Enbridge Inc,31.31
+ENBA,Enbridge Inc,24.54
+ENBL,"Enable Midstream Partners, LP",4.59
+ENIA,Enel Americas S.A.,7.7
+ENIC,Enel Chile S.A.,3.99
+ENJ,"Entergy New Orleans, LLC",25.7253
+ENLC,"EnLink Midstream, LLC",2.46
+ENO,"Entergy New Orleans, LLC",26.6532
+ENR,"Energizer Holdings, Inc.",49.11
+ENS,Enersys,68.55
+ENV,"Envestnet, Inc",80.56
+ENVA,"Enova International, Inc.",13.7
+ENZ,"Enzo Biochem, Inc.",2.51
+EOD,Wells Fargo Global Dividend Opportunity Fund,4.41
+EOG,"EOG Resources, Inc.",48.56
+EOI,Eaton Vance Enhance Equity Income Fund,15.06
+EOS,Eaton Vance Enhanced Equity Income Fund II,17.94
+EOT,Eaton Vance Municipal Income Trust,19.92
+EPAC,Enerpac Tool Group Corp.,19.64
+EPAM,"EPAM Systems, Inc.",280.05
+EPC,Edgewell Personal Care,29.34
+EPD,Enterprise Products Partners L.P.,18.11
+EPR,EPR Properties,31.19
+EPRT,"Essential Properties Realty Trust, Inc.",15.33
+EQC,Equity Commonwealth,31.41
+EQH,"Equitable Holdings, Inc.",20.28
+EQNR,Equinor ASA,15.49
+EQR,Equity Residential,53.33
+EQS,"Equus Total Return, Inc.",1.42
+EQT,EQT Corporation,13.41
+ERF,Enerplus Corporation,2.65
+ERJ,Embraer S.A.,6.15
+EROS,Eros International PLC,3.58
+ES,Eversource Energy,88.7
+ESE,ESCO Technologies Inc.,87.42
+ESI,Element Solutions Inc.,10.99
+ESNT,Essent Group Ltd.,34.8
+ESRT,"Empire State Realty Trust, Inc.",6.38
+ESS,"Essex Property Trust, Inc.",212.56
+ESTC,Elastic N.V.,90.44
+ESTE,"Earthstone Energy, Inc.",2.97
+ET,Energy Transfer L.P.,6.38
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,13.69
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,14.76
+ETH,Ethan Allen Interiors Inc.,11.69
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,9.75
+ETM,Entercom Communications Corp.,1.4
+ETN,"Eaton Corporation, PLC",95.23
+ETO,Eaton Vance Tax-Advantage Global Dividend Opp,21.19
+ETR,Entergy Corporation,101.73
+ETRN,Equitrans Midstream Corporation,9.29
+ETV,Eaton Vance Corporation,14.04
+ETW,Eaton Vance Corporation,8.71
+ETX           ,Eaton Vance Municipal Income 2028 Term Trust,21.4
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,10.85
+EURN,Euronav NV,9.48
+EV,Eaton Vance Corporation,37.6
+EVA,"Enviva Partners, LP",37.82
+EVC,Entravision Communications Corporation,1.37
+EVF,Eaton Vance Senior Income Trust,5.55
+EVG,Eaton Vance Short Diversified Income Fund,11.23
+EVH,"Evolent Health, Inc",11.01
+EVN,Eaton Vance Municipal Income Trust,12.89
+EVR,Evercore Inc.,56.58
+EVRG,"Evergy, Inc.",63.98
+EVRI,Everi Holdings Inc.,5.67
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund,19.52
+EVTC,"Evertec, Inc.",31.32
+EW,Edwards Lifesciences Corporation,78.69
+EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund,9.13
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,7.465
+EXK,Endeavour Silver Corporation,4.48
+EXP,Eagle Materials Inc,82.37
+EXPR,"Express, Inc.",1.15
+EXR,Extra Space Storage Inc,95.56
+EXTN,Exterran Corporation,4.95
+EZT,Entergy Texas Inc,26.37
+F,Ford Motor Company,6.93
+FAF,First American Corporation (The),52.85
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,10.25
+FBC,"Flagstar Bancorp, Inc.",28.82
+FBHS,"Fortune Brands Home & Security, Inc.",74.26
+FBK,FB Financial Corporation,24.8
+FBM,"Foundation Building Materials, Inc.",14.32
+FBP,First BanCorp.,5.65
+FC,Franklin Covey Company,18.23
+FCAU,Fiat Chrysler Automobiles N.V.,10.72
+FCF,First Commonwealth Financial Corporation,7.77
+FCN,"FTI Consulting, Inc.",113.51
+FCPT,"Four Corners Property Trust, Inc.",23.38
+FCT,First Trust Senior Floating Rate Income Fund II,10.92
+FCX,"Freeport-McMoran, Inc.",13.56
+FDEU,First Trust Dynamic Europe Equity Income Fund,10.53
+FDP,"Fresh Del Monte Produce, Inc.",23.4
+FDS,FactSet Research Systems Inc.,349.38
+FDX,FedEx Corporation,170.64
+FE,FirstEnergy Corp.,29.28
+FEAC,Flying Eagle Acquisition Corp.,11.44
+FEAC.U,Flying Eagle Acquisition Corp.,n/a
+FEAC.WS,Flying Eagle Acquisition Corp.,n/a
+FEDU,Four Seasons Education (Cayman) Inc.,1.19
+FEI           ,First Trust MLP and Energy Income Fund,5.23
+FENG,Phoenix New Media Limited,1.5
+FEO,First Trust/Aberdeen Emerging Opportunity Fund,12.32
+FET,"Forum Energy Technologies, Inc.",0.4815
+FF,FutureFuel Corp.,13.52
+FFA,First Trust,14.9
+FFC,Flaherty & Crumrine Preferred and Income Securitie,21.03
+FFG,"FBL Financial Group, Inc.",35.35
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,2.83
+FHI,"Federated Hermes, Inc.",24.02
+FHN,First Horizon National Corporation,9.52
+FI,Frank&#39;s International N.V.,2.17
+FICO,Fair Isaac Corporation,425.72
+FIF,First Trust Energy Infrastructure Fund,9.97
+FINS,Angel Oak Financial Strategies Income Term Trust,15.85
+FINV,FinVolution Group,2.03
+FIS,"Fidelity National Information Services, Inc.",143.44
+FIT,"Fitbit, Inc.",6.79
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund,8.41
+FIX,"Comfort Systems USA, Inc.",43.01
+FL,"Foot Locker, Inc.",29.87
+FLC,Flaherty & Crumrine Total Return Fund Inc,21.2
+FLNG,FLEX LNG Ltd.,5.76
+FLO,"Flowers Foods, Inc.",22.56
+FLOW,"SPX FLOW, Inc.",40.4
+FLR,Fluor Corporation,11.59
+FLS,Flowserve Corporation,30.7
+FLT,"FleetCor Technologies, Inc.",258.48
+FLY,Fly Leasing Limited,6.74
+FMC,FMC Corporation,108.45
+FMN,Federated Hermes Premier Municipal Income Fund,13.87
+FMO,Fiduciary/Claymore Energy Infrastructure Fund,8.405
+FMS,Fresenius Medical Care Corporation,45.42
+FMX,Fomento Economico Mexicano S.A.B. de C.V.,61.54
+FMY,First Trust,13.6
+FN,Fabrinet,69.8
+FNB,F.N.B. Corporation,7.53
+FND,"Floor & Decor Holdings, Inc.",71.47
+FNF,"Fidelity National Financial, Inc.",32.87
+FNV,Franco-Nevada Corporation,163.36
+FOE,Ferro Corporation,12.06
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",10.72
+FOR,Forestar Group Inc,18.03
+FOUR,"Shift4 Payments, Inc.",36.53
+FPAC,Far Point Acquisition Corporation,10.24
+FPAC.U,Far Point Acquisition Corporation,n/a
+FPAC.WS,Far Point Acquisition Corporation,n/a
+FPF,First Trust Intermediate Duration Preferred & Income Fund,21.94
+FPH,"Five Point Holdings, LLC",4.87
+FPI,Farmland Partners Inc.,7.07
+FPL,First Trust New Opportunities MLP & Energy Fund,4.03
+FR,"First Industrial Realty Trust, Inc.",41.72
+FRA,Blackrock Floating Rate Income Strategies Fund Inc,11.37
+FRC,FIRST REPUBLIC BANK,113.9
+FRO,Frontline Ltd.,7.78
+FRT,Federal Realty Investment Trust,73.63
+FSB,"Franklin Financial Network, Inc.",25.73
+FSD,First Trust High Income Long Short Fund,13.72
+FSK,FS KKR Capital Corp.,15.78
+FSKR,FS KKR Capital Corp. II,14.86
+FSLF,First Eagle Senior Loan Fund,11.93
+FSLY,"Fastly, Inc.",80.11
+FSM,Fortuna Silver Mines Inc.,7.24
+FSS,Federal Signal Corporation,29.98
+FT,Franklin Universal Trust,6.9
+FTAI,Fortress Transportation and Infrastructure Investors LLC,14.75
+FTCH,Farfetch Limited,22.41
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,20.6
+FTI,TechnipFMC plc,7.81
+FTK,"Flotek Industries, Inc.",1.55
+FTS,Fortis Inc.,39.71
+FTV,Fortive Corporation,71.9
+FUL,H. B. Fuller Company,45.66
+FUN,"Cedar Fair, L.P.",26.37
+FUSE.U,Fusion Acquisition Corp.,n/a
+FVAC,Fortress Value Acquisition Corp.,13.09
+FVAC.U,Fortress Value Acquisition Corp.,n/a
+FVAC.WS,Fortress Value Acquisition Corp.,n/a
+FVRR,Fiverr International Ltd.,85.34
+G,Genpact Limited,39.83
+GAB,"Gabelli Equity Trust, Inc. (The)",4.98
+GAM,"General American Investors, Inc.",33.08
+GATX,GATX Corporation,62.41
+GBAB,Guggenheim Taxable Municipal Managed Duration Trst,23.4
+GBL,"Gamco Investors, Inc.",12.6
+GBX,"Greenbrier Companies, Inc. (The)",26.67
+GCAP,"GAIN Capital Holdings, Inc.",6.13
+GCI,"Gannett Co., Inc.",1.45
+GCO,Genesco Inc.,16.78
+GCP,GCP Applied Technologies Inc.,23.14
+GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The)",5.335
+GD,General Dynamics Corporation,147.98
+GDDY,GoDaddy Inc.,68.55
+GDL,The GDL Fund,8.39
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,17.19
+GDOT,Green Dot Corporation,52.41
+GDV,The Gabelli Dividend & Income Trust,18.45
+GE,General Electric Company,6.71
+GEF,"Greif, Inc.",37.71
+GEF.B,"Greif, Inc.",n/a
+GEL,"Genesis Energy, L.P.",6.81
+GEN           ,"Genesis Healthcare, Inc.",0.825
+GEO,Geo Group Inc (The),10.75
+GER,Goldman Sachs MLP Energy Renaissance Fund,7.1
+GES,"Guess?, Inc.",10.53
+GF,"New Germany Fund, Inc. (The)",16.59
+GFF,Griffon Corporation,20.3
+GFI,Gold Fields Limited,13.47
+GFL,GFL Environmental Inc.,21.1
+GFLU,GFL Environmental Inc.,54.49
+GFY,Western Asset Variable Rate Strategic Fund Inc.,16.195
+GGB,Gerdau S.A.,3.49
+GGG,Graco Inc.,54.23
+GGM,Guggenheim Credit Allocation Fund,17.49
+GGT,Gabelli Multi-Media Trust Inc. (The),6.75
+GGZ,Gabelli Global Small and Mid Cap Value Trust (The),9.37
+GHC,Graham Holdings Company,406.82
+GHG,GreenTree Hospitality Group Ltd.,12.71
+GHL,"Greenhill & Co., Inc.",10.56
+GHM,Graham Corporation,12.4
+GHY,"PGIM Global High Yield Fund, Inc.",13.07
+GIB,CGI Inc.,65.94
+GIK,"GigCapital3, Inc.",9.99
+GIK.U,"GigCapital3, Inc.",n/a
+GIK.WS,"GigCapital3, Inc.",n/a
+GIL,"Gildan Activewear, Inc.",16.93
+GIM,"Templeton Global Income Fund, Inc.",5.43
+GIS,"General Mills, Inc.",64.08
+GIX,"GigCapital2, Inc.",10.34
+GIX.U,"GigCapital2, Inc.",n/a
+GIX.WS,"GigCapital2, Inc.",n/a
+GIX~,"GigCapital2, Inc.",0.3
+GJH,STRATS Trust,9.98
+GJO,STRATS Trust,22
+GJP,"Synthetic Fixed-Income Securities, Inc.",24.05
+GJR,"Synthetic Fixed-Income Securities, Inc.",21.25
+GJS,STRATS Trust,18.8922
+GJT,"Synthetic Fixed-Income Securities, Inc.",18.9899
+GKOS,Glaukos Corporation,41.17
+GL,Globe Life Inc.,79.57
+GLEO,Galileo Acquisition Corp.,9.98
+GLEO.U,Galileo Acquisition Corp.,n/a
+GLEO.WS,Galileo Acquisition Corp.,n/a
+GLOB,Globant S.A.,170.19
+GLOG,GasLog LP.,3.09
+GLOP,GasLog Partners LP,3.98
+GLP,Global Partners LP,9.53
+GLT,Glatfelter,16.72
+GLW,Corning Incorporated,30.63
+GM,General Motors Company,25.7
+GME,Gamestop Corporation,4.01
+GMED,"Globus Medical, Inc.",49.71
+GMRE,Global Medical REIT Inc.,11.74
+GMS,GMS Inc.,24.73
+GMTA,GATX Corporation,26.66
+GMZ,Goldman Sachs MLP Income Opportunities Fund,8.84
+GNE,Genie Energy Ltd.,8.36
+GNK,Genco Shipping & Trading Limited ,6.25
+GNL,"Global Net Lease, Inc.",16.44
+GNRC,Generac Holdlings Inc.,138.35
+GNT,"GAMCO Natural Resources, Gold & Income Tust ",5.29
+GNW,Genworth Financial Inc,2.18
+GOF,Guggenheim Strategic Opportunities Fund,17.02
+GOL,Gol Linhas Aereas Inteligentes S.A.,7.17
+GOLD,Barrick Gold Corporation,29.91
+GOLF,Acushnet Holdings Corp.,38.57
+GOOS,Canada Goose Holdings Inc.,23.11
+GPC,Genuine Parts Company,89.43
+GPI,"Group 1 Automotive, Inc.",88.04
+GPJA,Georgia Power Company,26.66
+GPK,Graphic Packaging Holding Company,14.58
+GPM,Guggenheim Enhanced Equity Income Fund,5.43
+GPMT,Granite Point Mortgage Trust Inc.,6.63
+GPN,Global Payments Inc.,174.29
+GPRK,Geopark Ltd,10.05
+GPS,"Gap, Inc. (The)",12.87
+GPX,GP Strategies Corporation,8.06
+GRA,W.R. Grace & Co.,50.05
+GRAF,Graf Industrial Corp.,15.56
+GRAF.U,Graf Industrial Corp.,n/a
+GRAF.WS,Graf Industrial Corp.,n/a
+GRAM,Grana y Montero S.A.A.,2.18
+GRC,Gorman-Rupp Company (The),32.02
+GRP.U,Granite Real Estate Inc.,n/a
+GRUB,GrubHub Inc.,71
+GRX,The Gabelli Healthcare & Wellness Trust,10.36
+GS,"Goldman Sachs Group, Inc. (The)",203.02
+GSAH.U,GS Acquisition Holdings Corp II,n/a
+GSBD,"Goldman Sachs BDC, Inc.",15.31
+GSH,Guangshen Railway Company Limited,9.55
+GSK,GlaxoSmithKline PLC,40.88
+GSL,"Global Ship Lease, Inc.",4.41
+GSLD,"Global Ship Lease, Inc.",22.35
+GSX,GSX Techedu Inc.,87.37
+GTES,Gates Industrial Corporation plc,11.1
+GTN,"Gray Television, Inc.",14.13
+GTN.A,"Gray Television, Inc.",n/a
+GTS,Triple-S Management Corporation,19.37
+GTT,"GTT Communications, Inc.",6.76
+GTX,Garrett Motion Inc.,6.9
+GTY,Getty Realty Corporation,29.93
+GUT,Gabelli Utility Trust (The),7.68
+GVA,Granite Construction Incorporated,18.54
+GWB,"Great Western Bancorp, Inc.",13.54
+GWRE,"Guidewire Software, Inc.",118.62
+GWW,"W.W. Grainger, Inc.",339.79
+GYC,Corporate Asset Backed Corp CABCO,23.54
+H,Hyatt Hotels Corporation,49.46
+HAE,Haemonetics Corporation,89.53
+HAL,Halliburton Company,14.9
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",34.37
+HBB,Hamilton Beach Brands Holding Company,14.55
+HBI,Hanesbrands Inc.,14.16
+HBM,Hudbay Minerals Inc.,3.36
+HCA,"HCA Healthcare, Inc.",125.33
+HCC,"Warrior Met Coal, Inc.",16.21
+HCFT,"Hunt Companies Finance Trust, Inc.",2.3
+HCHC,"HC2 Holdings, Inc.",2.76
+HCI,"HCI Group, Inc.",44.39
+HCXY,"Hercules Capital, Inc.",25.45
+HCXZ,"Hercules Capital, Inc.",25
+HD,"Home Depot, Inc. (The)",267.42
+HDB,HDFC Bank Limited,48.55
+HE,"Hawaiian Electric Industries, Inc.",36.22
+HEI,Heico Corporation,94.26
+HEI.A,Heico Corporation,n/a
+HEP,"Holly Energy Partners, L.P.",13.65
+HEQ,John Hancock Hedged Equity & Income Fund,11.23
+HES,Hess Corporation,50.29
+HESM,Hess Midstream LP,16.93
+HEXO,HEXO Corp.,0.7
+HFC,HollyFrontier Corporation,26.65
+HFRO,Highland Income Fund,7.78
+HGH,"Hartford Financial Services Group, Inc. (The)",28.14
+HGLB,Highland Global Allocation Fund,6.315
+HGV,Hilton Grand Vacations Inc.,20
+HHC,Howard Hughes Corporation (The),53.82
+HI,Hillenbrand Inc,28.78
+HIE,Miller/Howard High Income Equity Fund,6.11
+HIG,"Hartford Financial Services Group, Inc. (The)",40.84
+HII,"Huntington Ingalls Industries, Inc.",173.2
+HIL,"Hill International, Inc.",1.48
+HIO,"Western Asset High Income Opportunity Fund, Inc.",4.82
+HIW,"Highwoods Properties, Inc.",37.02
+HIX,Western Asset High Income Fund II Inc.,6.49
+HKIB,AMTD International Inc.,6.6
+HL,Hecla Mining Company,5.51
+HLF,Herbalife Nutrition Ltd.,50.74
+HLI,"Houlihan Lokey, Inc.",56.03
+HLT,Hilton Worldwide Holdings Inc.,77.34
+HLX,"Helix Energy Solutions Group, Inc.",4.45
+HMC,"Honda Motor Company, Ltd.",26.12
+HMI,Huami Corporation,13.39
+HMLP,Hoegh LNG Partners LP,11.42
+HMN,Horace Mann Educators Corporation,37.46
+HMY,Harmony Gold Mining Company Limited,7.1
+HNGR,"Hanger, Inc.",17.65
+HNI,HNI Corporation,30
+HNP,"Huaneng Power International, Inc.",17.14
+HOG,"Harley-Davidson, Inc.",29.28
+HOME,At Home Group Inc.,8.63
+HON,Honeywell International Inc.,150.76
+HOV,Hovnanian Enterprises Inc,21.74
+HP,"Helmerich & Payne, Inc.",20.48
+HPE,Hewlett Packard Enterprise Company,9.75
+HPF,John Hancock Pfd Income Fund II,18.06
+HPI,John Hancock Preferred Income Fund,20.18
+HPP,"Hudson Pacific Properties, Inc.",23.96
+HPQ,HP Inc.,17.81
+HPR,HighPoint Resources Corporation,0.3772
+HPS,John Hancock Preferred Income Fund III,16.15
+HPX.U,HPX Corp.,n/a
+HQH,Tekla Healthcare Investors,21.78
+HQL,Tekla Life Sciences Investors,18.57
+HR,Healthcare Realty Trust Incorporated,28.83
+HRB,"H&R Block, Inc.",14.82
+HRC,Hill-Rom Holdings Inc,117.57
+HRI,Herc Holdings Inc.,35.98
+HRL,Hormel Foods Corporation,50.55
+HRTG,"Heritage Insurance Holdings, Inc.",12.08
+HSBC,HSBC Holdings plc,22.67
+HSC,Harsco Corporation,15.4
+HST,"Host Hotels & Resorts, Inc.",10.32
+HSY,Hershey Company (The),146.29
+HT,Hersha Hospitality Trust,4.86
+HTA,"Healthcare Trust of America, Inc.",26.86
+HTD,John Hancock Tax Advantaged Dividend Income Fund,19.23
+HTFA,Horizon Technology Finance Corporation,24.89
+HTGC,"Hercules Capital, Inc.",10.73
+HTH,Hilltop Holdings Inc.,18.33
+HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,5.29
+HTZ,"Hertz Global Holdings, Inc",1.54
+HUBB,Hubbell Inc,132.95
+HUBS,"HubSpot, Inc.",226.94
+HUD,Hudson Ltd.,4.26
+HUM,Humana Inc.,391.02
+HUN,Huntsman Corporation,19.83
+HUYA,HUYA Inc.,22.37
+HVT,"Haverty Furniture Companies, Inc.",13.63
+HVT.A,"Haverty Furniture Companies, Inc.",n/a
+HWM,Howmet Aerospace Inc.,15.24
+HXL,Hexcel Corporation,44.65
+HY,"Hyster-Yale Materials Handling, Inc.",39.03
+HYB,"New America High Income Fund, Inc. (The)",7.94
+HYI,Western Asset High Yield Defined Opportunity Fund Inc.,14.22
+HYT,"Blackrock Corporate High Yield Fund, Inc.",10.5
+HZN,Horizon Global Corporation,4.32
+HZO,"MarineMax, Inc.",28.27
+IAA,"IAA, Inc.",39.97
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,7.94
+IAG,Iamgold Corporation,5.02
+IBA,"Industrias Bachoco, S.A. de C.V.",37.21
+IBM,International Business Machines Corporation,126.21
+IBN,ICICI Bank Limited,9.85
+IBP,"Installed Building Products, Inc.",80.61
+ICD,"Independence Contract Drilling, Inc.",3.8
+ICE,Intercontinental Exchange Inc.,94.54
+ICL,ICL Group Ltd.,3.18
+IDA,"IDACORP, Inc.",92.14
+IDE,"Voya Infrastructure, Industrials and Materials Fund",9.22
+IDT,IDT Corporation,6.54
+IEX,IDEX Corporation,169.56
+IFF,"International Flavors & Fragrances, Inc.",128.79
+IFFT,"International Flavors & Fragrances, Inc.",46.47
+IFN,"India Fund, Inc. (The)",16.13
+IFS,Intercorp Financial Services Inc.,25.27
+IGA,Voya Global Advantage and Premium Opportunity Fund,8.23
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,4.95
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,22.92
+IGR,CBRE Clarion Global Real Estate Income Fund,6
+IGT,International Game Technology,10.09
+IHC,Independence Holding Company,31.98
+IHD,Voya Emerging Markets High Income Dividend Equity Fund,6.51
+IHG,Intercontinental Hotels Group,47.08
+IHIT,Invesco High Income 2023 Target Term Fund,7.73
+IHTA,Invesco High Income 2024 Target Term Fund,7.37
+IID,Voya International High Dividend Equity Income Fund,4.22
+IIF,"Morgan Stanley India Investment Fund, Inc.",16.85
+IIM,Invesco Value Municipal Income Trust,14.87
+IIPR,"Innovative Industrial Properties, Inc.",95.63
+IMAX,Imax Corporation,12.64
+INFO,IHS Markit Ltd.,79.94
+INFY,Infosys Limited,12.67
+ING,"ING Group, N.V.",7.37
+INGR,Ingredion Incorporated,88.14
+INN,"Summit Hotel Properties, Inc.",5.23
+INSI,Insight Select Income Fund,21.21
+INSP,"Inspire Medical Systems, Inc.",101.66
+INSW,"International Seaways, Inc.",17.12
+INT,World Fuel Services Corporation,24.09
+INVH,Invitation Homes Inc.,28.01
+IO,Ion Geophysical Corporation,2.78
+IP,International Paper Company,36.85
+IPG,"Interpublic Group of Companies, Inc. (The)",18.56
+IPHI,Inphi Corporation,123.61
+IPI,"Intrepid Potash, Inc",0.8906
+IPOB,Social Capital Hedosophia Holdings Corp. II,12
+IPOB.U,Social Capital Hedosophia Holdings Corp. II,n/a
+IPOB.WS,Social Capital Hedosophia Holdings Corp. II,n/a
+IPOC,Social Capital Hedosophia Holdings Corp. III,11.07
+IPOC.U,Social Capital Hedosophia Holdings Corp. III,n/a
+IPOC.WS,Social Capital Hedosophia Holdings Corp. III,n/a
+IPV,InterPrivate Acquisition Corp.,10.02
+IPV.U,InterPrivate Acquisition Corp.,n/a
+IPV.WS,InterPrivate Acquisition Corp.,n/a
+IQI,Invesco Quality Municipal Income Trust,12.36
+IQV,"IQVIA Holdings, Inc.",162.28
+IR,Ingersoll Rand Inc.,31.82
+IRET,Investors Real Estate Trust,69.83
+IRL,"New Ireland Fund, Inc. (The)",8.41
+IRM,Iron Mountain Incorporated,27.75
+IRR,Voya Natural Resources Equity Income Fund,2.51
+IRS,IRSA Inversiones Y Representaciones S.A.,4.19
+IRT,"Independence Realty Trust, Inc.",10.76
+ISD,"PGIM High Yield Bond Fund, Inc.",13.59
+IT,"Gartner, Inc.",125.37
+ITCB,Ita? CorpBanca,4.85
+ITGR,Integer Holdings Corporation,70.85
+ITT,ITT Inc.,60.35
+ITUB,Itau Unibanco Banco Holding SA,5.36
+ITW,Illinois Tool Works Inc.,187.72
+IVC,Invacare Corporation,6.92
+IVH,Ivy High Income Opportunities Fund,11.92
+IVR,INVESCO MORTGAGE CAPITAL INC,3.24
+IVZ,Invesco Plc,10.71
+IX,Orix Corp Ads,57.17
+J,Jacobs Engineering Group Inc.,84.21
+JAX,"J. Alexander&#39;s Holdings, Inc.",4.02
+JBGS,JBG SMITH Properties,28.89
+JBK,Lehman ABS Corporation,28.28
+JBL,Jabil Inc.,33.78
+JBT,John Bean Technologies Corporation,90.69
+JCAP,"Jernigan Capital, Inc.",13.47
+JCE,Nuveen Core Equity Alpha Fund,12.65
+JCI,Johnson Controls International plc,37.07
+JCO,Nuveen Credit Opportunities 2022 Target Term Fund,8.18
+JDD,Nuveen Diversified Dividend and Income Fund,7.7627
+JE,"Just Energy Group, Inc.",0.3948
+JEF,Jefferies Financial Group Inc.,16.78
+JELD,"JELD-WEN Holding, Inc.",19.29
+JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,7.2505
+JEQ,"Aberdeen Japan Equity Fund, Inc. ",7.73
+JFR,Nuveen Floating Rate Income Fund,7.97
+JGH,Nuveen Global High Income Fund,13.5
+JHAA,Nuveen High Income 2023 Target Term Fund,9.29
+JHB,Nuveen High Income November 2021 Target Term Fund,9.02
+JHG,Janus Henderson Group plc,22.4
+JHI,John Hancock Investors Trust,15.75
+JHS,John Hancock Income Securities Trust,15.23
+JHX,James Hardie Industries plc.,21.01
+JHY,Nuveen High Income 2020 Target Term Fund,9.37
+JIH,"Juniper Industrial Holdings, Inc.",10.33
+JIH.U,"Juniper Industrial Holdings, Inc.",n/a
+JIH.WS,"Juniper Industrial Holdings, Inc.",n/a
+JILL,"J. Jill, Inc.",0.67
+JKS,JinkoSolar Holding Company Limited,20.29
+JLL,Jones Lang LaSalle Incorporated,98.39
+JLS,Nuveen Mortgage and Income Fund,18.89
+JMIA,Jumia Technologies AG,9.78
+JMM,Nuveen Multi-Market Income Fund,6.8049
+JMP,JMP Group LLC,2.64
+JNJ,Johnson & Johnson,147.18
+JNPR,"Juniper Networks, Inc.",25.12
+JOE,St. Joe Company (The),20.19
+JOF,Japan Smaller Capitalization Fund Inc,8.11
+JP,Jupai Holdings Limited,1.8
+JPC,Nuveen Preferred & Income Opportunities Fund,8.52
+JPI,Nuveen Preferred and Income Term Fund,21.79
+JPM,J P Morgan Chase & Co,96.9
+JPS,Nuveen Preferred & Income Securities Fund,8.85
+JPT,Nuveen Preferred and Income 2022 Term Fund,22.56
+JQC,Nuveen Credit Strategies Income Fund,5.88
+JRI,Nuveen Real Asset Income and Growth Fund,12.06
+JRO,Nuveen Floating Rate Income Opportuntiy Fund,7.89
+JRS,Nuveen Real Estate Fund,7.45
+JSD,Nuveen Short Duration Credit Opportunities Fund,11.55
+JT,Jianpu Technology Inc.,0.6001
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,8.21
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,13.055
+JW.A,"John Wiley & Sons, Inc.",n/a
+JW.B,"John Wiley & Sons, Inc.",n/a
+JWN,"Nordstrom, Inc.",14.13
+JWS,Jaws Acquisition Corp.,11.24
+JWS.U,Jaws Acquisition Corp.,n/a
+JWS.WS,Jaws Acquisition Corp.,n/a
+K,Kellogg Company,69.97
+KAI,Kadant Inc,117.1
+KAMN,Kaman Corporation,40.4
+KAR,"KAR Auction Services, Inc",14.24
+KB,KB Financial Group Inc,29.42
+KBH,KB Home,34.65
+KBR,"KBR, Inc.",22.41
+KCAC.U,Kensington Capital Acquisition Corp.,n/a
+KDMN,"Kadmon Holdings, Inc.",3.78
+KDP,Keurig Dr Pepper Inc.,30.96
+KEN,Kenon Holdings Ltd.,20.08
+KEP,Korea Electric Power Corporation,7.93
+KEX,Kirby Corporation,47.34
+KEY,KeyCorp,12.09
+KEYS,Keysight Technologies Inc.,98.2
+KF,"Korea Fund, Inc. (The)",27.87
+KFS,"Kingsway Financial Services, Inc.",2.6081
+KFY,Korn Ferry ,28.78
+KGC,Kinross Gold Corporation,8.71
+KIM,Kimco Realty Corporation,10.71
+KIO,KKR Income Opportunities Fund,12.81
+KKR,KKR & Co. Inc.,35.2
+KL,Kirkland Lake Gold Ltd.,50.63
+KMB,Kimberly-Clark Corporation,147.38
+KMF,"Kayne Anderson Midstream Energy Fund, Inc",4.36
+KMI,"Kinder Morgan, Inc.",14.2
+KMPR,Kemper Corporation,77.49
+KMT,Kennametal Inc.,28.09
+KMX,CarMax Inc,97.77
+KN,Knowles Corporation,14.7
+KNL,"Knoll, Inc.",11.61
+KNOP,KNOT Offshore Partners LP,14.42
+KNX,"Knight Transportation, Inc.",44.49
+KO,Coca-Cola Company (The),48.48
+KODK,Eastman Kodak Company,2.62
+KOF,Coca Cola Femsa S.A.B. de C.V.,42.15
+KOP,Koppers Holdings Inc.,25.07
+KOS,Kosmos Energy Ltd.,1.68
+KR,Kroger Company (The),34.76
+KRA,Kraton Corporation,17.97
+KRC,Kilroy Realty Corporation,56.77
+KREF,KKR Real Estate Finance Trust Inc.,16.29
+KRG,Kite Realty Group Trust,9.59
+KRO,Kronos Worldwide Inc,11.4
+KRP,Kimbell Royalty Partners,8.75
+KSM,Scudder Strategic Municiple Income Trust,10.93
+KSS,Kohl&#39;s Corporation,19.78
+KSU,Kansas City Southern,156.49
+KT,KT Corporation,9.82
+KTB,"Kontoor Brands, Inc.",19.63
+KTF,Scudder Municiple Income Trust,11.18
+KTH,Lehman ABS Corporation,32.51
+KTN,Lehman ABS Corporation,32.2128
+KW,Kennedy-Wilson Holdings Inc.,15.16
+KWR,Quaker Chemical Corporation,203.17
+KYN,Kayne Anderson MLP/Midstream Investment Company,4.79
+L,Loews Corporation,36.28
+LAC,Lithium Americas Corp.,6.62
+LAD,"Lithia Motors, Inc.",226.5
+LADR,Ladder Capital Corp,7.39
+LAIX,LAIX Inc.,2.89
+LAZ,Lazard Ltd.,28.26
+LB,"L Brands, Inc.",19.16
+LBRT,Liberty Oilfield Services Inc.,6.71
+LC,LendingClub Corporation,5.09
+LCI,Lannett Co Inc,5.69
+LCII,LCI Industries ,121.55
+LDL,"Lydall, Inc.",16.9
+LDOS,"Leidos Holdings, Inc.",90.16
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc",22.91
+LEA,Lear Corporation,118.97
+LEAF,Leaf Group Ltd.,3.94
+LEE,"Lee Enterprises, Incorporated",0.8643
+LEG,"Leggett & Platt, Incorporated",37.3
+LEJU,Leju Holdings Limited,3.45
+LEN,Lennar Corporation,73.03
+LEN.B,Lennar Corporation,n/a
+LEO,"BNY Mellon Strategic Municipals, Inc.",8.23
+LEVI,Levi Strauss & Co,12.18
+LFC,China Life Insurance Company Limited,11.76
+LGC,Legacy Acquisition Corp.,10.57
+LGC.U,Legacy Acquisition Corp.,n/a
+LGC.WS,Legacy Acquisition Corp.,n/a
+LGF.A,Lions Gate Entertainment Corporation,n/a
+LGF.B,Lions Gate Entertainment Corporation,n/a
+LGI,Lazard Global Total Return and Income Fund,14.58
+LGVW,Longview Acquisition Corp.,10.1
+LGVW.U,Longview Acquisition Corp.,n/a
+LGVW.WS,Longview Acquisition Corp.,n/a
+LH,Laboratory Corporation of America Holdings,201.3
+LHX,"L3Harris Technologies, Inc.",167.55
+LII,"Lennox International, Inc.",272
+LIN,Linde plc,246.86
+LINX,Linx S.A.,5.19
+LITB,"LightInTheBox Holding Co., Ltd.",1.22
+LL,"Lumber Liquidators Holdings, Inc",23.12
+LLY,Eli Lilly and Company,160.5
+LM,"Legg Mason, Inc.",49.99
+LMHA,"Legg Mason, Inc.",25.78
+LMHB,"Legg Mason, Inc.",25.7
+LMND,"Lemonade, Inc.",73
+LMT,Lockheed Martin Corporation,382.09
+LN,LINE Corporation,52.45
+LNC,Lincoln National Corporation,36.75
+LND,Brasilagro Cia Brasileira De Propriedades Agricolas,4.14
+LNN,Lindsay Corporation,100.25
+LOAK,Live Oak Acquisition Corp.,10.221
+LOAK.U,Live Oak Acquisition Corp.,n/a
+LOAK.WS,Live Oak Acquisition Corp.,n/a
+LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima,5.61
+LOW,"Lowe&#39;s Companies, Inc.",149.12
+LPG,Dorian LPG Ltd.,8.31
+LPI,"Laredo Petroleum, Inc.",15.78
+LPL,"LG Display Co., Ltd.",5.15
+LPX,Louisiana-Pacific Corporation,32.08
+LRN,K12 Inc,46.8
+LSI,"Life Storage, Inc.",92.76
+LTC,"LTC Properties, Inc.",37.61
+LTHM,Livent Corporation,6.67
+LUB,"Luby&#39;s, Inc.",1.17
+LUV,Southwest Airlines Company,31.53
+LVS,Las Vegas Sands Corp.,43.48
+LW,"Lamb Weston Holdings, Inc.",70.5
+LXFR,Luxfer Holdings PLC,13.06
+LXP,Lexington Realty Trust,11.14
+LXU,Lsb Industries Inc.,1.12
+LYB,LyondellBasell Industries NV,69.77
+LYG,Lloyds Banking Group Plc,1.43
+LYV,"Live Nation Entertainment, Inc.",47.34
+LZB,La-Z-Boy Incorporated,27.93
+M,Macy&#39;s Inc,6.21
+MA,Mastercard Incorporated,308.86
+MAA,"Mid-America Apartment Communities, Inc.",110.32
+MAC,Macerich Company (The),7.88
+MAIN,Main Street Capital Corporation,29.8
+MAN,ManpowerGroup,72.12
+MANU,Manchester United Ltd.,14.98
+MAS,Masco Corporation,55.89
+MATX,"Matson, Inc.",36.25
+MAV,Pioneer Municipal High Income Advantage Trust,11.06
+MAXR,Maxar Technologies Inc.,16.58
+MBI,"MBIA, Inc.",7.66
+MBT,Mobile TeleSystems OJSC,8.99
+MC,Moelis & Company,30.63
+MCA,"Blackrock MuniYield California Insured Fund, Inc.",14.69
+MCB,Metropolitan Bank Holding Corp.,29.96
+MCC,Medley Capital Corporation,12.4
+MCD,McDonald&#39;s Corporation,201.25
+MCI,Barings Corporate Investors,13.33
+MCK,McKesson Corporation,157.15
+MCN,Madison Covered Call & Equity Strategy Fund,5.77
+MCO,Moody&#39;s Corporation,289.5
+MCR,MFS Charter Income Trust,8.37
+MCS,Marcus Corporation (The),14.01
+MCV,Medley Capital Corporation,19.25
+MCX,Medley Capital Corporation,23.7
+MCY,Mercury General Corporation,41.37
+MD,"Mednax, Inc",19.77
+MDC,"M.D.C. Holdings, Inc.",43
+MDLA,"Medallia, Inc.",31.58
+MDLQ,Medley LLC,4.62
+MDLX,Medley LLC,4.55
+MDLY,Medley Management Inc.,0.7381
+MDP,Meredith Corporation,14.05
+MDT,Medtronic plc,96.43
+MDU,"MDU Resources Group, Inc.",21.68
+MEC,"Mayville Engineering Company, Inc.",7.15
+MED,MEDIFAST INC,166.47
+MEG,"Montrose Environmental Group, Inc.",21.75
+MEI,"Methode Electronics, Inc.",29.55
+MEN,"Blackrock MuniEnhanced Fund, Inc.",11.65
+MET,"MetLife, Inc.",37.8
+MFA,"MFA Financial, Inc.",2.58
+MFAC,Megalith Financial Acquisition Corp.,10.65
+MFAC.U,Megalith Financial Acquisition Corp.,n/a
+MFAC.WS,Megalith Financial Acquisition Corp.,n/a
+MFC,Manulife Financial Corp,13.98
+MFD,Macquarie First Trust Global,8.01
+MFG,"Mizuho Financial Group, Inc.",2.63
+MFGP,Micro Focus Intl PLC,3.72
+MFL,Blackrock MuniHoldings Investment Quality Fund,13.6
+MFM,MFS Municipal Income Trust,6.5
+MFO,"MFA Financial, Inc.",22.9
+MFT,Blackrock MuniYield Investment QualityFund,13.69
+MFV,MFS Special Value Trust,5.37
+MG,Mistras Group Inc,3.5
+MGA,"Magna International, Inc.",48.65
+MGF,MFS Government Markets Income Trust,4.72
+MGM,MGM Resorts International,14.96
+MGP,MGM Growth Properties LLC,25.58
+MGR,"Affiliated Managers Group, Inc.",27
+MGU,Macquarie Global Infrastructure Total Return Fund Inc.,17.95
+MGY,Magnolia Oil & Gas Corporation,6.43
+MHD,"Blackrock MuniHoldings Fund, Inc.",15.67
+MHE,BlackRock Massachusetts Tax-Exempt Trust,13.15
+MHF,"Western Asset Municipal High Income Fund, Inc.",7.26
+MHI,Pioneer Municipal High Income Trust,11.59
+MHK,"Mohawk Industries, Inc.",87.33
+MHLA,"Maiden Holdings, Ltd.",19.0226
+MHN,"Blackrock MuniHoldings New York Quality Fund, Inc.",13.74
+MHNC,"Maiden Holdings, Ltd.",21.4
+MHO,"M/I Homes, Inc.",41.56
+MIC,Macquarie Infrastructure Corporation ,29.86
+MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",1.93
+MIN,MFS Intermediate Income Trust,3.84
+MITT,"AG Mortgage Investment Trust, Inc.",3.08
+MIXT,MiX Telematics Limited,9.08
+MIY,"Blackrock MuniYield Michigan Quality Fund, Inc.",14.11
+MKC,"McCormick & Company, Incorporated",196.02
+MKC.V,"McCormick & Company, Incorporated",n/a
+MKL,Markel Corporation,1014.91
+MLI,"Mueller Industries, Inc.",28.52
+MLM,"Martin Marietta Materials, Inc.",228
+MLP,"Maui Land & Pineapple Company, Inc.",10.27
+MLR,"Miller Industries, Inc.",29.14
+MMC,"Marsh & McLennan Companies, Inc.",114.61
+MMD,MainStay MacKay DefinedTerm Municipal Opportunitie,20.88
+MMI,"Marcus & Millichap, Inc.",27.46
+MMM,3M Company,163.24
+MMP,Magellan Midstream Partners L.P.,41.68
+MMS,"Maximus, Inc.",72.8
+MMT,MFS Multimarket Income Trust,5.68
+MMU,"Western Asset Managed Municipals Fund, Inc.",12.45
+MN,"Manning & Napier, Inc.",3.12
+MNK,Mallinckrodt plc,1.99
+MNP,"Western Asset Municipal Partners Fund, Inc.",14.62
+MNR,Monmouth Real Estate Investment Corporation,14.13
+MNRL,"Brigham Minerals, Inc.",11.61
+MO,Altria Group,42.13
+MOD,Modine Manufacturing Company,5.15
+MODN,"Model N, Inc.",37.34
+MOG.A,Moog Inc.,n/a
+MOG.B,Moog Inc.,n/a
+MOGU,MOGU Inc.,2.34
+MOH,Molina Healthcare Inc,182.24
+MOS,Mosaic Company (The),14
+MOV,Movado Group Inc.,10.37
+MPA,Blackrock MuniYield Pennsylvania Quality Fund,14.04
+MPC,Marathon Petroleum Corporation,38.52
+MPLX,MPLX LP,18.28
+MPV,Barings Participation Investors,11.81
+MPW,"Medical Properties Trust, Inc.",19.32
+MPX,Marine Products Corporation,17.68
+MQT,"Blackrock MuniYield Quality Fund II, Inc.",13.26
+MQY,"Blackrock MuniYield Quality Fund, Inc.",16.05
+MR,Montage Resources Corporation,4.24
+MRC,MRC Global Inc.,6.29
+MRK,"Merck & Company, Inc.",78.93
+MRO,Marathon Oil Corporation,5.63
+MS,Morgan Stanley,51.32
+MSA,MSA Safety Incorporporated,117.67
+MSB,Mesabi Trust,16.6
+MSC,Studio City International Holdings Limited,14.7501
+MSCI,MSCI Inc,394
+MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",8.51
+MSGE,Madison Square Garden Entertainment Corp.,74.08
+MSGN,MSG Networks Inc.,10.16
+MSGS,Madison Square Garden Sports Corp.,148.71
+MSI,"Motorola Solutions, Inc.",141.96
+MSM,"MSC Industrial Direct Company, Inc.",68.6
+MT,ArcelorMittal,11.51
+MTB,M&T Bank Corporation,102.9
+MTCN,ArcelorMittal,30.09
+MTD,"Mettler-Toledo International, Inc.",895.5
+MTDR,Matador Resources Company,9.13
+MTG,MGIC Investment Corporation,7.57
+MTH,Meritage Corporation,98.01
+MTL,Mechel PAO,1.83
+MTN,"Vail Resorts, Inc.",188.84
+MTOR,"Meritor, Inc.",24.27
+MTR,Mesa Royalty Trust,4.45
+MTRN,Materion Corporation,58.28
+MTT,Western Asset Municipal Defined Opportunity Trust Inc,20.4
+MTW,"Manitowoc Company, Inc. (The)",11.66
+MTX,Minerals Technologies Inc.,48.1
+MTZ,"MasTec, Inc.",40.91
+MUA,"Blackrock MuniAssets Fund, Inc.",14.16
+MUC,"Blackrock MuniHoldings California Quality Fund,  Inc.",14.58
+MUE,"Blackrock MuniHoldings Quality Fund II, Inc.",12.88
+MUFG,Mitsubishi UFJ Financial Group Inc,3.91
+MUH,"Blackrock MuniHoldings Fund II, Inc.",15.07
+MUI,Blackrock Muni Intermediate Duration Fund Inc,14.01
+MUJ,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",14.03
+MUR,Murphy Oil Corporation,14.07
+MUS,"Blackrock MuniHoldings Quality Fund, Inc.",12.87
+MUSA,Murphy USA Inc.,135.97
+MUX,McEwen Mining Inc.,1.44
+MVC,"MVC Capital, Inc.",6.45
+MVCD,"MVC Capital, Inc.",24.2002
+MVF,"MuniVest Fund, Inc.",8.72
+MVO,MV Oil Trust,3.4
+MVT,"Blackrock MuniVest Fund II, Inc.",14.2
+MWA,Mueller Water Products Inc,10.15
+MX,MagnaChip Semiconductor Corporation,10.61
+MXE,"Mexico Equity and Income Fund, Inc. (The)",8.04
+MXF,"Mexico Fund, Inc. (The)",10.24
+MXL,"MaxLinear, Inc",25.96
+MYC,"Blackrock MuniYield California Fund, Inc.",14.32
+MYD,"Blackrock MuniYield Fund, Inc.",14.04
+MYE,"Myers Industries, Inc.",14.79
+MYF,Blackrock MuniYield Investment Fund,13.7425
+MYI,"Blackrock MuniYield Quality Fund III, Inc.",13.4
+MYJ,"Blackrock MuniYield New Jersey Fund, Inc.",14.22
+MYN,"Blackrock MuniYield New York Quality Fund, Inc.",12.93
+MYOV,Myovant Sciences Ltd.,17.44
+MZA,"MuniYield Arizona Fund, Inc.",14.39
+NAC,Nuveen California Quality Municipal Income Fund,14.72
+NAD,Nuveen Quality Municipal Income Fund,14.49
+NAN,Nuveen New York Quality Municipal Income Fund,13.84
+NAT,Nordic American Tankers Limited,4.41
+NAV,Navistar International Corporation,31.49
+NAZ,Nuveen Arizona Quality Municipal Income Fund,13.66
+NBB,Nuveen Taxable Municipal Income Fund,22.23
+NBHC,National Bank Holdings Corporation,27.59
+NBR,Nabors Industries Ltd.,43.83
+NC,"NACCO Industries, Inc.",23.33
+NCA,"Nuveen California Municipal Value Fund, Inc.",10.67
+NCB,Nuveen California Municipal Value Fund 2,14.92
+NCLH,Norwegian Cruise Line Holdings Ltd.,13.38
+NCR,NCR Corporation,17.57
+NCV,AllianzGI Convertible & Income Fund,4.51
+NCZ,AllianzGI Convertible & Income Fund II,4.01
+NDP,"Tortoise Energy Independence Fund, Inc.",11.76
+NE,Noble Corporation,0.2607
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,14.35
+NEE,"NextEra Energy, Inc.",277.63
+NEM,Newmont Corporation,69.04
+NEP,"NextEra Energy Partners, LP",60.25
+NET,"Cloudflare, Inc.",37.36
+NEU,NewMarket Corporation,422.09
+NEV,Nuveen Enhanced Municipal Value Fund,15.01
+NEW,Puxin Limited,10.43
+NEWR,"New Relic, Inc.",64.1
+NEX,NexTier Oilfield Solutions Inc.,2.7
+NEXA,Nexa Resources S.A.,6.5
+NFG,National Fuel Gas Company,41.31
+NFH,New Frontier Health Corporation,8.97
+NFH.WS,New Frontier Health Corporation,n/a
+NFJ,"AllianzGI Dividend, Interest & Premium Strategy Fu",11.94
+NGG,"National Grid Transco, PLC",58.2
+NGL,NGL ENERGY PARTNERS LP,4.77
+NGS,"Natural Gas Services Group, Inc.",6.33
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",16.53
+NGVT,Ingevity Corporation,58.42
+NHA,Nuveen Municipal 2021 Target Term Fund,9.85
+NHF,NexPoint Strategic Opportunities Fund,9.76
+NHI,"National Health Investors, Inc.",60.33
+NI,"NiSource, Inc",24.28
+NID,Nuveen Intermediate Duration Municipal Term Fund,13.18
+NIE,AllianzGI Equity & Convertible Income Fund,23.86
+NIM,Nuveen Select Maturities Municipal Fund,10.33
+NINE,"Nine Energy Service, Inc.",1.84
+NIO,NIO Inc.,11.69
+NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund,14.2706
+NJR,NewJersey Resources Corporation,31.16
+NJV,Nuveen New Jersey Municipal Value Fund,12.92
+NKE,"Nike, Inc.",97.21
+NKG,Nuveen Georgia Quality Municipal Income Fund ,12.54
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,15.31
+NL,"NL Industries, Inc.",3.51
+NLS,"Nautilus Group, Inc. (The)",10.33
+NLSN,Nielsen N.V.,14.79
+NLY,Annaly Capital Management Inc,7.27
+NM,Navios Maritime Holdings Inc.,1.98
+NMCO,Nuveen Municipal Credit Opportunities Fund,12.91
+NMFC,New Mountain Finance Corporation,8.99
+NMFX,New Mountain Finance Corporation,24.45
+NMI,"Nuveen Municipal Income Fund, Inc.",11.37
+NMM,Navios Maritime Partners LP,8.76
+NMR,Nomura Holdings Inc ADR,4.56
+NMS,Nuveen Minnesota Quality Municipal Income Fund,14.4
+NMT,Nuveen Massachusetts Municipal Income Fund,14.12
+NMY,Nuveen Maryland Quality Municipal Income Fund,13.15
+NMZ,Nuveen Municipal High Income Opportunity Fund,13.48
+NNA,Navios Maritime Acquisition Corporation,4.54
+NNI,"Nelnet, Inc.",58.25
+NNN,National Retail Properties,34.99
+NNY,"Nuveen New York Municipal Value Fund, Inc.",10.03
+NOA,North American Construction Group Ltd.,5.78
+NOAH,Noah Holdings Ltd.,29.51
+NOC,Northrop Grumman Corporation,308.02
+NOK,Nokia Corporation,4.34
+NOM,Nuveen Missouri Quality Municipal Income Fund,13.5668
+NOMD,Nomad Foods Limited,22.11
+NOV,"National Oilwell Varco, Inc.",12.99
+NOVA,Sunnova Energy International Inc.,23.75
+NOW,"ServiceNow, Inc.",433.81
+NP,"Neenah, Inc.",47.49
+NPK,"National Presto Industries, Inc.",82.56
+NPN,Nuveen Pennsylvania Municipal Value Fund,14.4
+NPO,EnPro Industries,49.32
+NPTN,NeoPhotonics Corporation,8.96
+NPV,Nuveen Virginia Quality Municipal Income Fund,15.04
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,13.85
+NR,"Newpark Resources, Inc.",1.98
+NREF,"NexPoint Real Estate Finance, Inc.",15.62
+NRG,"NRG Energy, Inc.",33.74
+NRGX,PIMCO Energy and Tactical Credit Opportunities Fund,6.86
+NRK,Nuveen New York AMT-Free Quality Municipal,13.18
+NRP,Natural Resource Partners LP,10.2
+NRT,North European Oil Royality Trust,3.17
+NRUC,National Rural Utilities Cooperative Finance Corporation,27.15
+NRZ,New Residential Investment Corp.,7.77
+NS,Nustar Energy L.P.,13.93
+NSA,National Storage Affiliates Trust,29.33
+NSC,Norfolk Southern Corporation,189.93
+NSCO,"Nesco Holdings, Inc.",3.69
+NSCO.WS,"Nesco Holdings, Inc.",n/a
+NSL,Nuveen Senior Income Fund,4.7
+NSP,"Insperity, Inc.",66.07
+NSS,"NuStar Logistics, L.P.",20.3
+NTB,Bank of N.T. Butterfield & Son Limited (The),26.42
+NTCO,Natura &Co Holding S.A.,16.76
+NTEST,NASDAQ TEST STOCK,25.05
+NTEST.A,NASDAQ TEST STOCK,n/a
+NTEST.B,NASDAQ TEST STOCK,n/a
+NTEST.C,NASDAQ TEST STOCK,n/a
+NTG,"Tortoise Midstream Energy Fund, Inc.",16.76
+NTP,Nam Tai Property Inc.,8.13
+NTR,Nutrien Ltd.,33.44
+NTZ,"Natuzzi, S.p.A.",1.86
+NUE,Nucor Corporation,43.83
+NUM,Nuveen Michigan Quality Municipal Income Fund,13.9
+NUO,Nuveen Ohio Quality Municipal Income Fund,15.1671
+NUS,"Nu Skin Enterprises, Inc.",43.96
+NUV,Nuveen AMT-Free Municipal Value Fund,10.54
+NUW,Nuveen AMT-Free Municipal Value Fund,15.77
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,15.67
+NVGS,Navigator Holdings Ltd.,7.28
+NVO,Novo Nordisk A/S,67.41
+NVR,"NVR, Inc.",3912
+NVRO,Nevro Corp.,129.75
+NVS,Novartis AG,84.71
+NVST,Envista Holdings Corporation,22.26
+NVT,nVent Electric plc,19.02
+NVTA,Invitae Corporation,31.58
+NWE,NorthWestern Corporation,54.04
+NWG,NatWest Group plc,2.88
+NWHM,New Home Company Inc. (The),4.3
+NWN,Northwest Natural Holding Company,53.19
+NX,Quanex Building Products Corporation,14.47
+NXC,Nuveen Insured California Select Tax-Free Income Portfolio,15.98
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,13.62
+NXN,Nuveen Insured New York Select Tax-Free Income Portfolio,13.3199
+NXP,Nuveen Select Tax Free Income Portfolio,16.01
+NXQ,Nuveen Select Tax Free Income Portfolio II,15.14
+NXR,Nuveen Select Tax Free Income Portfolio III,16.42
+NXRT,"NexPoint Residential Trust, Inc.",35.77
+NYCB,"New York Community Bancorp, Inc.",10.18
+NYT,New York Times Company (The),45.84
+NYV,Nuveen New York Municipal Value Fund 2,13.85
+NZF,Nuveen Municipal Credit Income Fund,15.1
+O,Realty Income Corporation,58.64
+OAC,Oaktree Acquisition Corp.,10.5201
+OAC.U,Oaktree Acquisition Corp.,n/a
+OAC.WS,Oaktree Acquisition Corp.,n/a
+OC,Owens Corning Inc,63.57
+OCFT,"OneConnect Financial Technology Co., Ltd.",22.36
+OCN,Ocwen Financial Corporation,1.21
+ODC,Oil-Dri Corporation Of America,36.68
+OEC,Orion Engineered Carbons S.A,10.71
+OFC,Corporate Office Properties Trust,25.11
+OFG,OFG Bancorp,13.6
+OGE,OGE Energy Corp,32.39
+OGS,"ONE Gas, Inc.",76.39
+OHI,"Omega Healthcare Investors, Inc.",31.6
+OI,"O-I Glass, Inc.",10.4
+OIA,Invesco Municipal Income Opportunities Trust,7.29
+OIBR.C,Oi S.A.,n/a
+OII,"Oceaneering International, Inc.",5.98
+OIS,"Oil States International, Inc.",5.35
+OKE,"ONEOK, Inc.",28.02
+OLN,Olin Corporation,12.26
+OLP,"One Liberty Properties, Inc.",17.19
+OMC,Omnicom Group Inc.,57.01
+OMF,"OneMain Holdings, Inc.",25.46
+OMI,"Owens & Minor, Inc.",15.56
+ONDK,"On Deck Capital, Inc.",0.7251
+ONE,OneSmart International Education Group Limited,3.7
+ONTO,Onto Innovation Inc.,35.86
+OOMA,"Ooma, Inc.",15.99
+OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",14.07
+OPY,"Oppenheimer Holdings, Inc.",21.5
+OR,Osisko Gold Royalties Ltd.,11.83
+ORA,"Ormat Technologies, Inc.",61.31
+ORAN,Orange,12.14
+ORC,"Orchid Island Capital, Inc.",4.94
+ORCC,Owl Rock Capital Corporation,11.72
+ORCL,Oracle Corporation,55.34
+ORI,Old Republic International Corporation,16.35
+ORN,"Orion Group Holdings, Inc.",2.73
+OSB,Norbord Inc.,32.87
+OSG,"Overseas Shipholding Group, Inc.",2.41
+OSK,Oshkosh Corporation,80.61
+OTIS,Otis Worldwide Corporation,58.32
+OUT,OUTFRONT Media Inc.,14.55
+OVV,Ovintiv Inc.,11.1
+OXM,"Oxford Industries, Inc.",43.72
+OXY,Occidental Petroleum Corporation,16.7
+PAA,"Plains All American Pipeline, L.P.",7.84
+PAC,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",66.54
+PACD,Pacific Drilling S.A.,0.4712
+PACK,Ranpak Holdings Corp,8.11
+PACK.WS,Ranpak Holdings Corp,n/a
+PAG,"Penske Automotive Group, Inc.",47.13
+PAGP,"Plains Group Holdings, L.P.",8.01
+PAGS,PagSeguro Digital Ltd.,37.9
+PAI,Western Asset Investment Grade Income Fund Inc.,15.61
+PAM,Pampa Energia S.A.,12.04
+PANA.U,Panacea Acquisition Corp.,n/a
+PANW,"Palo Alto Networks, Inc.",247.66
+PAR,PAR Technology Corporation,31.08
+PARR,"Par Pacific Holdings, Inc.",8.4
+PAYC,"Paycom Software, Inc.",290.29
+PB,"Prosperity Bancshares, Inc.",55.07
+PBA,Pembina Pipeline Corp.,24.8
+PBB,Prospect Capital Corporation,25.28
+PBC,Prospect Capital Corporation,24.89
+PBF,PBF Energy Inc.,8.32
+PBFX,PBF Logistics LP,9.27
+PBH,Prestige Consumer Healthcare Inc.,37.69
+PBI,Pitney Bowes Inc.,2.86
+PBR,Petroleo Brasileiro S.A.- Petrobras,9.3
+PBR.A,Petroleo Brasileiro S.A.- Petrobras,n/a
+PBT,Permian Basin Royalty Trust,3.405
+PBY,Prospect Capital Corporation,24.7
+PCF,High Income Securities Fund,7.87
+PCG,Pacific Gas & Electric Co.,9.05
+PCGU,Pacific Gas & Electric Co.,97.45
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund,18.9
+PCK,Pimco California Municipal Income Fund II,9.11
+PCM,"PIMCO Commercial Mortgage Securities Trust, Inc.",9.36
+PCN,Pimco Corporate & Income Stategy Fund,15.52
+PCPL,CC Neuberger Principal Holdings I,10.6
+PCPL.U,CC Neuberger Principal Holdings I,n/a
+PCPL.WS,CC Neuberger Principal Holdings I,n/a
+PCQ,PIMCO California Municipal Income Fund,16.64
+PD,"PagerDuty, Inc.",28.02
+PDI,PIMCO Dynamic Income Fund,24.91
+PDM,"Piedmont Office Realty Trust, Inc.",15.7
+PDS,Precision Drilling Corporation,0.6701
+PDT,John Hancock Premium Dividend Fund,13.12
+PE,"Parsley Energy, Inc.",11.15
+PEAK,"Healthpeak Properties, Inc.",26.46
+PEB,Pebblebrook Hotel Trust,10.09
+PEG,Public Service Enterprise Group Incorporated,51.99
+PEI,Pennsylvania Real Estate Investment Trust,1.2
+PEN,"Penumbra, Inc.",212.94
+PEO,"Adams Natural Resources Fund, Inc.",11.8
+PER,SandRidge Permian Trust,0.4299
+PFD,Flaherty & Crumrine Preferred and Income Fund Inco,14.86
+PFE,"Pfizer, Inc.",37.54
+PFGC,Performance Food Group Company,27.52
+PFL,PIMCO Income Strategy Fund,9.98
+PFN,PIMCO Income Strategy Fund II,8.9
+PFO,Flaherty & Crumrine Preferred and Income Opportuni,11.73
+PFS,"Provident Financial Services, Inc",14.11
+PFSI,"PennyMac Financial Services, Inc.",45.01
+PG,Procter & Gamble Company (The),126.32
+PGP,Pimco Global Stocksplus & Income Fund,8.5
+PGR,Progressive Corporation (The),87.3
+PGRE,"Paramount Group, Inc.",7
+PGTI,"PGT Innovations, Inc.",17.31
+PGZ,Principal Real Estate Income Fund,11.65
+PH,Parker-Hannifin Corporation,185.65
+PHD,Pioneer Floating Rate Trust,9.62
+PHG,Koninklijke Philips N.V.,53.02
+PHI,PLDT Inc.,26.36
+PHK,Pimco High Income Fund,5.13
+PHM,"PulteGroup, Inc.",44.24
+PHR,"Phreesia, Inc.",27.46
+PHT,Pioneer High Income Trust,7.65
+PHX,Panhandle Royalty Company,2.43
+PIC,Pivotal Investment Corporation II,10.22
+PIC.U,Pivotal Investment Corporation II,n/a
+PIC.WS,Pivotal Investment Corporation II,n/a
+PII,Polaris Inc.,97.97
+PIM,Putnam Master Intermediate Income Trust,4.11
+PINE,"Alpine Income Property Trust, Inc.",14.44
+PING,Ping Identity Holding Corp.,33.6
+PINS,"Pinterest, Inc.",24.27
+PIPR,Piper Sandler Companies,63.69
+PJH,"Prudential Financial, Inc.",25.78
+PJT,PJT Partners Inc.,53.23
+PK,Park Hotels & Resorts Inc.,8.31
+PKE,Park Aerospace Corp.,11.19
+PKG,Packaging Corporation of America,103.53
+PKI,"PerkinElmer, Inc.",114.97
+PKO,Pimco Income Opportunity Fund,23.93
+PKX,POSCO,41.21
+PLAN,"Anaplan, Inc.",44.78
+PLD,"Prologis, Inc.",101.76
+PLNT,"Planet Fitness, Inc.",54.64
+PLOW,"Douglas Dynamics, Inc.",35.85
+PLT,"Plantronics, Inc.",19.56
+PLYM,"Plymouth Industrial REIT, Inc.",12.67
+PM,Philip Morris International Inc,78.54
+PMF,PIMCO Municipal Income Fund,13.58
+PML,Pimco Municipal Income Fund II,13.64
+PMM,Putnam Managed Municipal Income Trust,7.79
+PMO,Putnam Municipal Opportunities Trust,13.44
+PMT,PennyMac Mortgage Investment Trust,18.9
+PMX,PIMCO Municipal Income Fund III,11.39
+PNC,"PNC Financial Services Group, Inc. (The)",104.92
+PNF,PIMCO New York Municipal Income Fund,11.67
+PNI,Pimco New York Municipal Income Fund II,10.63
+PNM,"PNM Resources, Inc. (Holding Co.)",41.25
+PNR,Pentair plc.,42.99
+PNW,Pinnacle West Capital Corporation,80.28
+POR,Portland General Electric Company,42.92
+POST,"Post Holdings, Inc.",87.87
+PPG,"PPG Industries, Inc.",110.23
+PPL,PPL Corporation,25.25
+PPR,Voya Prime Rate Trust,4.37
+PPT,Putnam Premier Income Trust,4.61
+PPX,"PPL Capital Funding, Inc.",25.93
+PQG,PQ Group Holdings Inc.,13.65
+PRA,ProAssurance Corporation,15.1
+PRGO,Perrigo Company,56.66
+PRH,"Prudential Financial, Inc.",25.8
+PRI,"Primerica, Inc.",120.01
+PRLB,"Proto Labs, Inc.",137.93
+PRMW,Primo Water Corporation,14.23
+PRO,"PROS Holdings, Inc.",39.46
+PROS,"ProSight Global, Inc.",8.66
+PRS,"Prudential Financial, Inc.",27.65
+PRSP,Perspecta Inc.,21.94
+PRT,PermRock Royalty Trust,2.17
+PRTY,Party City Holdco Inc.,1.47
+PRU,"Prudential Financial, Inc.",64.22
+PSA,Public Storage,185.57
+PSB,"PS Business Parks, Inc.",130.88
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",25.25
+PSN,Parsons Corporation,34
+PSO,"Pearson, Plc",6.67
+PSTG,"Pure Storage, Inc. ",18.03
+PSTH.U,"Pershing Square Tontine Holdings, Ltd.",n/a
+PSTL,"Postal Realty Trust, Inc.",14.05
+PSV,Hermitage Offshore Services Ltd.,0.86
+PSX,Phillips 66,64.59
+PSXP,Phillips 66 Partners LP,29.53
+PTR,PetroChina Company Limited,35.99
+PTY,Pimco Corporate & Income Opportunity Fund,15.63
+PUK,Prudential Public Limited Company,29.91
+PUMP,ProPetro Holding Corp.,5.76
+PVG,"Pretium Resources, Inc.",9.95
+PVH,PVH Corp.,50.12
+PVL,Permianville Royalty Trust,1.114
+PWR,"Quanta Services, Inc.",41.08
+PXD,Pioneer Natural Resources Company,98.52
+PYN,PIMCO New York Municipal Income Fund III,8.935
+PYS,PPlus Trust,13.8
+PYT,PPlus Trust,21.51
+PZC,PIMCO California Municipal Income Fund III,10.52
+PZN,Pzena Investment Management Inc,5.23
+QD,Qudian Inc.,1.7
+QEP,"QEP Resources, Inc.",1.66
+QGEN,Qiagen N.V.,49.36
+QSR,Restaurant Brands International Inc.,56.49
+QTS,"QTS Realty Trust, Inc.",69.33
+QTWO,"Q2 Holdings, Inc.",94.45
+QUAD,"Quad Graphics, Inc",3.1
+QUOT,Quotient Technology Inc.,7.79
+QVCC,"QVC, Inc.",21.84
+QVCD,"QVC, Inc.",23.53
+R,"Ryder System, Inc.",43.01
+RA,Brookfield Real Assets Income Fund Inc.,17.11
+RACE,Ferrari N.V.,179.93
+RAD,Rite Aid Corporation,15
+RAMP,"LiveRamp Holdings, Inc.",46.33
+RBA,Ritchie Bros. Auctioneers Incorporated,44.44
+RBC,Regal Beloit Corporation,93.51
+RC,Ready Capital Corporation,7.96
+RCA,Ready Capital Corporation,22.13
+RCB,Ready Capital Corporation,19.8
+RCI,"Rogers Communication, Inc.",40.86
+RCL,Royal Caribbean Cruises Ltd.,49.3
+RCP,Ready Capital Corporation,24.5
+RCS,"PIMCO Strategic Income Fund, Inc.",6.37
+RCUS,"Arcus Biosciences, Inc.",22.43
+RDN,Radian Group Inc.,13.85
+RDS.A,Royal Dutch Shell PLC,n/a
+RDS.B,Royal Dutch Shell PLC,n/a
+RDY,Dr. Reddy&#39;s Laboratories Ltd,53.65
+RE,"Everest Re Group, Ltd.",220.8
+RELX,RELX PLC,21.53
+RENN,Renren Inc.,3
+RES,"RPC, Inc.",3.34
+RESI,Front Yard Residential Corporation,8.5
+REV,"Revlon, Inc.",6.68
+REVG,"REV Group, Inc.",6.3
+REX,REX American Resources Corporation,67.71
+REXR,"Rexford Industrial Realty, Inc.",41.8
+REZI,"Resideo Technologies, Inc.",13.46
+RF,Regions Financial Corporation,10.61
+RFI,"Cohen & Steers Total Return Realty Fund, Inc.",11.99
+RFL,"Rafael Holdings, Inc.",14.06
+RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",19.99
+RFP,Resolute Forest Products Inc.,2.98
+RGA,"Reinsurance Group of America, Incorporated",85.31
+RGR,"Sturm, Ruger & Company, Inc.",78.48
+RGS,Regis Corporation,7.83
+RGT,"Royce Global Value Trust, Inc.",12.62
+RH,RH,291.86
+RHI,Robert Half International Inc.,52.32
+RHP,"Ryman Hospitality Properties, Inc.",31.12
+RIG,Transocean Ltd.,2.2
+RIO,Rio Tinto Plc,62.57
+RIV,"RiverNorth Opportunities Fund, Inc.",14.7
+RJF,"Raymond James Financial, Inc.",71.2
+RL,Ralph Lauren Corporation,71.61
+RLGY,Realogy Holdings Corp.,8.42
+RLH,Red Lion Hotels Corporation,2.28
+RLI,RLI Corp.,90.99
+RLJ,RLJ Lodging Trust,7.77
+RM,Regional Management Corp.,15.56
+RMAX,"RE/MAX Holdings, Inc.",33.34
+RMD,ResMed Inc.,205.63
+RMED,"Ra Medical Systems, Inc.",0.3822
+RMG,RMG Acquisition Corp.,10.26
+RMG.U,RMG Acquisition Corp.,n/a
+RMG.WS,RMG Acquisition Corp.,n/a
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",21.12
+RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc.",17.46
+RMT,"Royce Micro-Cap Trust, Inc.",7.53
+RNG,"Ringcentral, Inc.",277.82
+RNGR,"Ranger Energy Services, Inc.",2.96
+RNP,"Cohen & Steers REIT and Preferred and Income Fund,",19.2
+RNR,RenaissanceRe Holdings Ltd.,177.19
+ROG,Rogers Corporation,132.96
+ROK,"Rockwell Automation, Inc.",229
+ROL,"Rollins, Inc.",49.28
+ROP,"Roper Technologies, Inc.",420.7
+ROYT,Pacific Coast Oil Trust,0.3587
+RPAI,"Retail Properties of America, Inc.",6.06
+RPLA,Replay Acquisition Corp.,10.3
+RPLA.U,Replay Acquisition Corp.,n/a
+RPLA.WS,Replay Acquisition Corp.,n/a
+RPM,RPM International Inc.,80.92
+RPT,RPT Realty,6.04
+RQI,Cohen & Steers Quality Income Realty Fund Inc.,10.64
+RRC,Range Resources Corporation,5.98
+RRD,R.R. Donnelley & Sons Company,1.24
+RS,Reliance Steel & Aluminum Co.,103.46
+RSF,RiverNorth Specialty Finance Corporation,14.9352
+RSG,"Republic Services, Inc.",85.05
+RST,Rosetta Stone,25.72
+RTX,Raytheon Technologies Corporation,61.09
+RVI,Retail Value Inc.,12.05
+RVLV,"Revolve Group, Inc.",15.75
+RVT,"Royce Value Trust, Inc.",13.11
+RWT,"Redwood Trust, Inc.",6.81
+RXN,Rexnord Corporation,30.61
+RY,Royal Bank Of Canada,69.85
+RYAM,Rayonier Advanced Materials Inc.,3.16
+RYB,"RYB Education, Inc.",3.05
+RYCE,Amira Nature Foods Ltd,9.25
+RYI,Ryerson Holding Corporation,5.95
+RYN,Rayonier Inc.,28.7
+RZA,"Reinsurance Group of America, Incorporated",26.5
+RZB,"Reinsurance Group of America, Incorporated",26.43
+SA,"Seabridge Gold, Inc.",20.33
+SAF,Saratoga Investment Corp,24.325
+SAFE,Safehold Inc.,48.19
+SAH,"Sonic Automotive, Inc.",41.51
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,77.84
+SAIL,"SailPoint Technologies Holdings, Inc.",31.25
+SAK,Saratoga Investment Corp,25.29
+SALT,Scorpio Bulkers Inc.,14.13
+SAM,"Boston Beer Company, Inc. (The)",814.19
+SAN,"Banco Santander, S.A.",2.4
+SAND          ,Sandstorm Gold Ltd,10.54
+SAP,SAP SE,164.87
+SAR,Saratoga Investment Corp,16.97
+SAVE,"Spirit Airlines, Inc.",16.15
+SB,"Safe Bulkers, Inc",1.17
+SBBA,Scorpio Tankers Inc.,22.63
+SBE,Switchback Energy Acquisition Corporation,10.3
+SBE.U,Switchback Energy Acquisition Corporation,n/a
+SBE.WS,Switchback Energy Acquisition Corporation,n/a
+SBH,"Sally Beauty Holdings, Inc.",13.15
+SBI,Western Asset Intermediate Muni Fund Inc,8.83
+SBOW,"SilverBow Resorces, Inc.",3.91
+SBR,Sabine Royalty Trust,29.89
+SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,11.73
+SBSW,Sibayne Gold Limited,12.4
+SC,Santander Consumer USA Holdings Inc.,17.88
+SCA,Stellus Capital Investment Corporation,23.075
+SCCO,Southern Copper Corporation,46.07
+SCD,LMP Capital and Income Fund Inc.,10.13
+SCHW,The Charles Schwab Corporation,33.84
+SCI,Service Corporation International,38.41
+SCL,Stepan Company,109.09
+SCM,Stellus Capital Investment Corporation,7.31
+SCPE,SC Health Corporation,10.19
+SCPE.U,SC Health Corporation,n/a
+SCPE.WS,SC Health Corporation,n/a
+SCS,Steelcase Inc.,10.93
+SCU,"Sculptor Capital Management, Inc.",13.48
+SCVX,SCVX Corp.,10.4
+SCVX.U,SCVX Corp.,n/a
+SCVX.WS,SCVX Corp.,n/a
+SCX,L.S. Starrett Company (The),3.28
+SD,"SandRidge Energy, Inc.",1.32
+SE,Sea Limited,114.18
+SEAS,"SeaWorld Entertainment, Inc.",15.69
+SEE,Sealed Air Corporation,36.96
+SEM,Select Medical Holdings Corporation,16.67
+SERV,"ServiceMaster Global Holdings, Inc.",38.14
+SF,Stifel Financial Corporation,48.33
+SFB,Stifel Financial Corporation,26.73
+SFE,"Safeguard Scientifics, Inc.",6.15
+SFL,SFL Corporation Ltd,8.4
+SFTW,Osprey Technology Acquisition Corp.,10.31
+SFTW.U,Osprey Technology Acquisition Corp.,n/a
+SFTW.WS,Osprey Technology Acquisition Corp.,n/a
+SFUN,Fang Holdings Limited,11.56
+SGU,"Star Group, L.P.",9.01
+SHAK,"Shake Shack, Inc.",50.72
+SHG,Shinhan Financial Group Co Ltd,25.25
+SHI,"SINOPEC Shangai Petrochemical Company, Ltd.",22.37
+SHLL,Tortoise Acquisition Corp.,19
+SHLL.U,Tortoise Acquisition Corp.,n/a
+SHLL.WS,Tortoise Acquisition Corp.,n/a
+SHLX,"Shell Midstream Partners, L.P.",11.93
+SHO,"Sunstone Hotel Investors, Inc.",7.3
+SHOP,Shopify Inc.,976.39
+SHW,Sherwin-Williams Company (The),625.52
+SI,Silvergate Capital Corporation,14.15
+SID,National Steel Company,2.33
+SIG,Signet Jewelers Limited,11.52
+SII,Sprott Inc.,41.21
+SITC,SITE Centers Corp.,7.03
+SITE,"SiteOne Landscape Supply, Inc.",125.25
+SIX,Six Flags Entertainment Corporation New,19.49
+SJI,"South Jersey Industries, Inc.",23.34
+SJIJ,"South Jersey Industries, Inc.",25.46
+SJIU,"South Jersey Industries, Inc.",39.12
+SJM,J.M. Smucker Company (The),108.87
+SJR,Shaw Communications Inc.,17.9
+SJT,San Juan Basin Royalty Trust,2.19
+SJW,SJW Group,64.14
+SKM,"SK Telecom Co., Ltd.",19.32
+SKT,"Tanger Factory Outlet Centers, Inc.",6.64
+SKX,"Skechers U.S.A., Inc.",29.38
+SKY,Skyline Champion Corporation,27.04
+SLB,Schlumberger N.V.,19.68
+SLCA,"U.S. Silica Holdings, Inc.",3.56
+SLF,Sun Life Financial Inc.,40.07
+SLG,SL Green Realty Corp,46.87
+SLQT,"SelectQuote, Inc.",19.76
+SM,SM Energy Company,3.53
+SMAR,Smartsheet Inc.,47.63
+SMFG,Sumitomo Mitsui Financial Group Inc,5.67
+SMG,Scotts Miracle-Gro Company (The),148.4
+SMHI,SEACOR Marine Holdings Inc.,2.53
+SMLP,"Summit Midstream Partners, LP",0.868
+SMM,Salient Midstream & MLP Fund,3.9
+SMP,"Standard Motor Products, Inc.",39.5
+SNA,Snap-On Incorporated,145.61
+SNAP,Snap Inc.,22.84
+SNDR,"Schneider National, Inc.",25.07
+SNE,Sony Corp Ord,78.53
+SNN,"Smith & Nephew SNATS, Inc.",41.24
+SNP,China Petroleum & Chemical Corporation,45.06
+SNR,New Senior Investment Group Inc.,3.39
+SNV,Synovus Financial Corp.,20.29
+SNX,Synnex Corporation,124.02
+SO,Southern Company (The),54.26
+SOAC,Sustainable Opportunities Acquisition Corp.,10.14
+SOAC.U,Sustainable Opportunities Acquisition Corp.,n/a
+SOAC.WS,Sustainable Opportunities Acquisition Corp.,n/a
+SOGO,Sogou Inc.,8.51
+SOI,"Solaris Oilfield Infrastructure, Inc.",7.84
+SOJA,Southern Company (The),25.64
+SOJB,Southern Company (The),26.1742
+SOJC,Southern Company (The),26.83
+SOJD,Southern Company (The),26.18
+SOL,Renesola Ltd.,1.7
+SOLN,Southern Company (The),46.68
+SON,Sonoco Products Company,53.74
+SOR,"Source Capital, Inc.",35.91
+SOS,SOS Limited,2.06
+SPAQ,Spartan Energy Acquisition Corp,13.45
+SPAQ.U,Spartan Energy Acquisition Corp,n/a
+SPAQ.WS,Spartan Energy Acquisition Corp,n/a
+SPB           ,"Spectrum Brands Holdings, Inc.",49.38
+SPCE,"Virgin Galactic Holdings, Inc.",24.92
+SPE,Special Opportunities Fund Inc.,11.97
+SPG,"Simon Property Group, Inc.",61.96
+SPGI,S&P Global Inc.,351.32
+SPH,"Suburban Propane Partners, L.P.",13.3
+SPLP,Steel Partners Holdings LP,4.82
+SPN,"Superior Energy Services, Inc.",1.07
+SPOT,Spotify Technology S.A.,272.5
+SPR,"Spirit Aerosystems Holdings, Inc.",21.4
+SPXC,SPX Corporation,41.97
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,13.17
+SQ,"Square, Inc.",125.75
+SQM,Sociedad Quimica y Minera S.A.,30.97
+SQNS,Sequans Communications S.A.,7.11
+SR,Spire Inc.,61.16
+SRC,"Spirit Realty Capital, Inc.",33.52
+SRE,Sempra Energy,122.98
+SREA,Sempra Energy,26.7714
+SRG,Seritage Growth Properties,9.45
+SRI,"Stoneridge, Inc.",21.47
+SRL,Scully Royalty Ltd.,7.735
+SRLP,Sprague Resources LP,18.16
+SRT,"StarTek, Inc.",4.75
+SRV,Cushing MLP & Infrastructure Total Return Fund,17.9
+SSD,"Simpson Manufacturing Company, Inc.",94.2
+SSL,Sasol Ltd.,8.19
+SSTK,"Shutterstock, Inc.",43.4
+ST,Sensata Technologies Holding plc,41.77
+STAG,"Stag Industrial, Inc.",31.51
+STAR          ,iStar Inc.,11.65
+STC,Stewart Information Services Corporation,42.27
+STE,STERIS plc,157.69
+STG,Sunlands Technology Group,1.7637
+STK,"Columbia Seligman Premium Technology Growth Fund, Inc",22.56
+STL,Sterling Bancorp,11.55
+STM,STMicroelectronics N.V.,30.87
+STN,Stantec Inc,32.16
+STNG,Scorpio Tankers Inc.,13.02
+STON,StoneMor Inc.,0.7217
+STOR,STORE Capital Corporation,23.33
+STT,State Street Corporation,62.85
+STWD,"STARWOOD PROPERTY TRUST, INC.",14.67
+STZ,Constellation Brands Inc,178.89
+STZ.B,Constellation Brands Inc,n/a
+SU,Suncor Energy  Inc.,16.85
+SUI,"Sun Communities, Inc.",142.38
+SUM,"Summit Materials, Inc.",17.71
+SUN,Sunoco LP,24.59
+SUP,"Superior Industries International, Inc.",1.49
+SUPV,Grupo Supervielle S.A.,3.01
+SUZ,Suzano S.A.,8.08
+SWCH,"Switch, Inc.",17.65
+SWI,SolarWinds Corporation,18.48
+SWK,"Stanley Black & Decker, Inc.",157.61
+SWM,"Schweitzer-Mauduit International, Inc.",33.77
+SWN,Southwestern Energy Company,2.44
+SWT,"Stanley Black & Decker, Inc.",97.75
+SWX,"Southwest Gas Holdings, Inc.",66.86
+SWZ,"Swiss Helvetia Fund, Inc. (The)",8.14
+SXC,"SunCoke Energy, Inc.",3.29
+SXI,Standex International Corporation,56.56
+SXT,Sensient Technologies Corporation,52.81
+SYF,Synchrony Financial,23.74
+SYK,Stryker Corporation,197.34
+SYX,Systemax Inc.,19.52
+SYY,Sysco Corporation,53.99
+SZC,Cushing NextGen Infrastructure Income Fund,30.7
+T,AT&T Inc.,29.29
+TAC,TransAlta Corporation,6.3
+TAK,Takeda Pharmaceutical Company Limited,17.97
+TAL,TAL Education Group,78.5
+TALO,"Talos Energy, Inc.",7.08
+TAP,Molson Coors Beverage Company,36.15
+TAP.A,Molson Coors Beverage Company,n/a
+TARO,Taro Pharmaceutical Industries Ltd.,65.15
+TBB,AT&T Inc.,26.48
+TBC,AT&T Inc.,27.335
+TBI,"TrueBlue, Inc.",13.67
+TCI,"Transcontinental Realty Investors, Inc.",24.61
+TCO,"Taubman Centers, Inc.",38.4
+TCP,"TC PipeLines, LP",30.47
+TCRW,"THL Credit, Inc.",23.44
+TCRZ,"THL Credit, Inc.",24.3
+TCS,Container Store (The),4.22
+TD,Toronto Dominion Bank (The),44.93
+TDA,"Telephone and Data Systems, Inc.",24.29
+TDC,Teradata Corporation,20.59
+TDE,"Telephone and Data Systems, Inc.",25.105
+TDF,"Templeton Dragon Fund, Inc.",22.11
+TDG,Transdigm Group Incorporated,424.18
+TDI,"Telephone and Data Systems, Inc.",25.49
+TDJ,"Telephone and Data Systems, Inc.",25.14
+TDOC,"Teladoc Health, Inc.",212.75
+TDS,"Telephone and Data Systems, Inc.",19.65
+TDW,Tidewater Inc.,6.31
+TDW.WS.A,Tidewater Inc.,n/a
+TDW.WS.B,Tidewater Inc.,n/a
+TDY,Teledyne Technologies Incorporated,307.29
+TEAF,Tortoise Essential Assets Income Term Fund,10.9
+TECK,Teck Resources Ltd,11.11
+TEF,Telefonica SA,4.43
+TEI,"Templeton Emerging Markets Income Fund, Inc.",7.65
+TEL,TE Connectivity Ltd.,89.94
+TEN,Tenneco Inc.,7.84
+TEO,Telecom Argentina Stet - France Telecom S.A.,9.54
+TEVA,Teva Pharmaceutical Industries Limited,11.55
+TEX,Terex Corporation,20.38
+TFC,Truist Financial Corporation,36.67
+TFII,TFI International Inc.,40.45
+TFX,Teleflex Incorporated,385
+TG,Tredegar Corporation,16.23
+TGH,Textainer Group Holdings Limited,9.09
+TGI,"Triumph Group, Inc.",7.24
+TGNA,TEGNA Inc.,11.72
+TGP,Teekay LNG Partners L.P.,11.36
+TGS,Transportadora De Gas Sa Ord B,5.95
+TGT,Target Corporation,122.69
+THC,Tenet Healthcare Corporation,24.82
+THG,"The Hanover Insurance Group, Inc.",98.31
+THGA,"The Hanover Insurance Group, Inc.",25.6
+THO,"Thor Industries, Inc.",117.14
+THQ,Tekla Healthcare Opportunies Fund,18.3
+THR,"Thermon Group Holdings, Inc.",14.39
+THS,"Treehouse Foods, Inc.",44.28
+THW,Tekla World Healthcare Fund,14.48
+TIF,Tiffany & Co.,125
+TISI,"Team, Inc.",3.96
+TJX,"TJX Companies, Inc. (The)",52.08
+TK,Teekay Corporation,2.45
+TKC,Turkcell Iletisim Hizmetleri AS,5.72
+TKR,Timken Company (The),47.71
+TLI,Western Asset Corporate Loan Fund Inc,9.03
+TLK,"PT Telekomunikasi Indonesia, Tbk",20.83
+TLRD,"Tailored Brands, Inc.",0.599
+TLYS,"Tilly&#39;s, Inc.",6
+TM,Toyota Motor Corp Ltd Ord,127.57
+TME,Tencent Music Entertainment Group,16.03
+TMHC,Taylor Morrison Home Corporation,24.91
+TMO,Thermo Fisher Scientific Inc,413.44
+TMST,TimkenSteel Corporation,3.77
+TNC,Tennant Company,68.29
+TNET,"TriNet Group, Inc.",63.01
+TNK,Teekay Tankers Ltd.,14.71
+TNP,Tsakos Energy Navigation Ltd,8.64
+TOL,"Toll Brothers, Inc.",38.63
+TOT,Total S.A.,38.49
+TPB,"Turning Point Brands, Inc.",30.38
+TPC,Tutor Perini Corporation,12.14
+TPH,"TRI Pointe Group, Inc.",17.72
+TPL,Texas Pacific Land Trust,555
+TPR,"Tapestry, Inc.",13.65
+TPRE,Third Point Reinsurance Ltd.,8.08
+TPVG,TriplePoint Venture Growth BDC Corp.,10.59
+TPVY,TriplePoint Venture Growth BDC Corp.,24.1
+TPX,"Tempur Sealy International, Inc.",75.86
+TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc",8.98
+TR,"Tootsie Roll Industries, Inc.",31.12
+TRC,Tejon Ranch Co,14.79
+TREB.U,Trebia Acquisition Corp.,n/a
+TREC,Trecora Resources,6.1
+TREX,"Trex Company, Inc.",139
+TRGP,"Targa Resources, Inc.",18.13
+TRI,Thomson Reuters Corp,68.46
+TRN,"Trinity Industries, Inc.",19.46
+TRNE,Trine Acquisition Corp.,10.55
+TRNE.U,Trine Acquisition Corp.,n/a
+TRNE.WS,Trine Acquisition Corp.,n/a
+TRNO,Terreno Realty Corporation,56.93
+TROX,Tronox Holdings plc,8.05
+TRP,TC Energy Corporation,44.86
+TRQ,Turquoise Hill Resources Ltd.,0.8936
+TRTN,Triton International Limited,34.95
+TRTX,"TPG RE Finance Trust, Inc.",8.01
+TRU,TransUnion,89.39
+TRV,"The Travelers Companies, Inc.",116.63
+TRWH,"Twin River Worldwide Holdings, Inc.",20.56
+TS,Tenaris S.A.,12.83
+TSE,Trinseo S.A.,26.89
+TSI,"TCW Strategic Income Fund, Inc.",5.74
+TSLX,"Sixth Street Specialty Lending, Inc.",16.9
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,83.25
+TSN,"Tyson Foods, Inc.",60.98
+TSQ,"Townsquare Media, Inc.",4.7
+TSU,TIM Participacoes S.A.,14.06
+TT,Trane Technologies plc,104.55
+TTC,Toro Company (The),71.31
+TTI,"Tetra Technologies, Inc.",0.735
+TTM,Tata Motors Ltd,6.79
+TTP,"Tortoise Pipeline & Energy Fund, Inc.",14.11
+TU,TELUS Corporation,17.25
+TUFN,Tufin Software Technologies Ltd.,9.9
+TUP,Tupperware Brands Corporation,9.32
+TV,Grupo Televisa S.A.,5.53
+TVC,Tennessee Valley Authority,25.6
+TVE,Tennessee Valley Authority,25.72
+TWI,"Titan International, Inc.",1.83
+TWLO,Twilio Inc.,252.86
+TWN,"Taiwan Fund, Inc. (The)",24.13
+TWO,Two Harbors Investments Corp,5.34
+TWTR,"Twitter, Inc.",36.85
+TX,Ternium S.A.,14.66
+TXT,Textron Inc.,34.18
+TY,Tri Continental Corporation,25.49
+TYG,Tortoise Energy Infrastructure Corporation,16.3
+TYL,"Tyler Technologies, Inc.",359.09
+UA,"Under Armour, Inc.",9.95
+UAA,"Under Armour, Inc.",11.2
+UAN,"CVR Partners, LP",0.9541
+UBA,Urstadt Biddle Properties Inc.,9.82
+UBER,"Uber Technologies, Inc.",30.99
+UBP,Urstadt Biddle Properties Inc.,8.544
+UBS,UBS AG,12.3
+UDR,"UDR, Inc.",35.3
+UE,Urban Edge Properties,10.13
+UFI,"Unifi, Inc.",11.94
+UFS,Domtar Corporation,22.2
+UGI,UGI Corporation,32.49
+UGP,Ultrapar Participacoes S.A.,3.73
+UHS,"Universal Health Services, Inc.",109.37
+UHT,Universal Health Realty Income Trust,67.7
+UI,Ubiquiti Inc.,185.23
+UIS,Unisys Corporation,11.51
+UL,Unilever PLC,61.04
+UMC,United Microelectronics Corporation,3.87
+UMH,"UMH Properties, Inc.",12.26
+UN,Unilever NV,59.54
+UNF,Unifirst Corporation,183.53
+UNFI,"United Natural Foods, Inc.",20.37
+UNH,UnitedHealth Group Incorporated,298.6
+UNM,Unum Group,18.1
+UNMA,Unum Group,25.96
+UNP,Union Pacific Corporation,176.82
+UNVR,Univar Solutions Inc.,17.98
+UPS,"United Parcel Service, Inc.",121.01
+URI,"United Rentals, Inc.",163.29
+USA,Liberty All-Star Equity Fund,5.9
+USAC,"USA Compression Partners, LP",12.73
+USB,U.S. Bancorp,36.16
+USDP,USD Partners LP,2.93
+USFD,US Foods Holding Corp.,20.75
+USM,United States Cellular Corporation,30.32
+USNA,"USANA Health Sciences, Inc.",81.27
+USPH,"U.S. Physical Therapy, Inc.",83.89
+USX,"U.S. Xpress Enterprises, Inc.",7.01
+UTF,"Cohen & Steers Infrastructure Fund, Inc",23
+UTI,Universal Technical Institute Inc,7.61
+UTL,UNITIL Corporation,45.08
+UVE,UNIVERSAL INSURANCE HOLDINGS INC,17.2
+UVV,Universal Corporation,42.26
+UZA,United States Cellular Corporation,25.12
+UZB,United States Cellular Corporation,25.45
+UZC,United States Cellular Corporation,25.44
+V,Visa Inc.,196.91
+VAC,Marriott Vacations Worldwide Corporation,88.83
+VAL,Valaris plc,0.6327
+VALE,VALE S.A.,11.91
+VAPO,"Vapotherm, Inc.",49.99
+VAR,"Varian Medical Systems, Inc.",133.05
+VBF,Invesco Bond Fund,20.86
+VCIF,Vertical Capital Income Fund,9.6661
+VCRA,"Vocera Communications, Inc.",23.43
+VCV,Invesco California Value Municipal Income Trust,12.22
+VEC,"Vectrus, Inc.",44.45
+VEDL,Vedanta  Limited,5.88
+VEEV,Veeva Systems Inc.,253.5
+VEL,"Velocity Financial, Inc.",3.63
+VER,VEREIT Inc.,6.43
+VERT.U,"Vertiv Holdings, LLC",n/a
+VET,Vermilion Energy Inc.,4.72
+VFC,V.F. Corporation,60.82
+VGI,Virtus Global Multi-Sector Income Fund,11.11
+VGM,Invesco Trust for Investment Grade Municipals,12.57
+VGR,Vector Group Ltd.,8.43
+VHC,VirnetX Holding Corp,5.15
+VHI,"Valhi, Inc.",11.47
+VICI,VICI Properties Inc.,20.77
+VIPS,Vipshop Holdings Limited,21.55
+VIST,"Vista Oil & Gas, S.A.B. de C.V.",3.7
+VIV,Telefonica Brasil S.A.,9.6
+VJET,voxeljet AG,1.64
+VKQ,Invesco Municipal Trust,12.32
+VLO,Valero Energy Corporation,58.03
+VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",5.11
+VLT,Invesco High Income Trust II,12.18
+VMC,Vulcan Materials Company,128.13
+VMI,"Valmont Industries, Inc.",126
+VMO,Invesco Municipal Opportunity Trust,12.2
+VMW,"Vmware, Inc.",141.14
+VNCE,Vince Holding Corp.,4.86
+VNE,"Veoneer, Inc.",11.32
+VNO,Vornado Realty Trust,34.76
+VNTR,Venator Materials PLC,1.79
+VOC,VOC Energy Trust,1.87
+VOYA,"Voya Financial, Inc.",49.12
+VPG,"Vishay Precision Group, Inc.",24.49
+VPV,Invesco Pennsylvania Value Municipal Income Trust,12.52
+VRS,Verso Corporation,13.34
+VRT,"Vertiv Holdings, LLC",13.66
+VRT.WS,"Vertiv Holdings, LLC",n/a
+VRTV,Veritiv Corporation,16.7
+VSH,"Vishay Intertechnology, Inc.",15.72
+VSLR,"Vivint Solar, Inc.",23.22
+VST,Vistra Corp.,18.2
+VST.WS.A,Vistra Energy Corp.,n/a
+VSTO,Vista Outdoor Inc.,15.78
+VTA,Invesco Credit Opportunities Fund,8.85
+VTN,Invesco Trust  for Investment Grade New York Municipal,12.46
+VTOL,"Bristow Group, Inc.",16.43
+VTR,"Ventas, Inc.",35.61
+VVI,Viad Corp,14.27
+VVNT,"Vivint Smart Home, Inc.",15.43
+VVNT.WS,"Vivint Smart Home, Inc.",n/a
+VVR,Invesco Senior Income Trust,3.44
+VVV,Valvoline Inc.,21.23
+VZ,Verizon Communications Inc.,56.87
+W,Wayfair Inc.,231.41
+WAB,Westinghouse Air Brake Technologies Corporation,62.01
+WAL,Western Alliance Bancorporation,36.52
+WALA,Western Alliance Bancorporation,25.19
+WAT,Waters Corporation,227.45
+WBAI,500.com Limited,3.77
+WBK,Westpac Banking Corporation,12.63
+WBS,Webster Financial Corporation,26.31
+WBT,"Welbilt, Inc.",6.53
+WCC,"WESCO International, Inc.",42.3
+WCN,"Waste Connections, Inc.",100.27
+WD,"Walker & Dunlop, Inc.",49.66
+WDR,"Waddell & Reed Financial, Inc.",15.23
+WEA,Western Asset Bond Fund,13.86
+WEC,"WEC Energy Group, Inc.",93.34
+WEI,Weidai Ltd.,1.12
+WELL,Welltower Inc.,51.01
+WES,"Western Midstream Partners, LP",9.62
+WEX,WEX Inc.,163.31
+WF,Woori Bank,21.67
+WFC,Wells Fargo & Company,25.49
+WGO,"Winnebago Industries, Inc.",64.1
+WH,"Wyndham Hotels & Resorts, Inc.",46.51
+WHD,"Cactus, Inc.",22.66
+WHG,Westwood Holdings Group Inc,12.91
+WHR,Whirlpool Corporation,165.72
+WIA,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,12.51
+WIT,Wipro Limited,3.97
+WIW,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,11.2
+WK,Workiva Inc.,54.86
+WLK,Westlake Chemical Corporation,58.53
+WLKP,Westlake Chemical Partners LP,19.91
+WLL,Whiting Petroleum Corporation,0.9369
+WM,"Waste Management, Inc.",107.07
+WMB,"Williams Companies, Inc. (The)",18.83
+WMC,Western Asset Mortgage Capital Corporation,2.22
+WMK,"Weis Markets, Inc.",51.84
+WMS,"Advanced Drainage Systems, Inc.",49.97
+WMT,Walmart Inc.,131.21
+WNC,Wabash National Corporation,11.81
+WNS,WNS (Holdings) Limited,61.42
+WOR,"Worthington Industries, Inc.",38.01
+WORK,"Slack Technologies, Inc.",29.37
+WOW,"WideOpenWest, Inc.",5.73
+WPC,W. P. Carey Inc.,67.49
+WPF,Foley Trasimene Acquisition Corp.,10.45
+WPF.U,Foley Trasimene Acquisition Corp.,n/a
+WPF.WS,Foley Trasimene Acquisition Corp.,n/a
+WPG,Washington Prime Group Inc.,0.7689
+WPM,Wheaton Precious Metals Corp.,56.21
+WPP,WPP plc,38.94
+WPX,"WPX Energy, Inc.",5.79
+WRB,W.R. Berkley Corporation,62.87
+WRE,Washington Real Estate Investment Trust,21.41
+WRI,Weingarten Realty Investors,16.72
+WRK,Westrock Company,30.21
+WSM,"Williams-Sonoma, Inc.",86.59
+WSO,"Watsco, Inc.",228.56
+WSO.B,"Watsco, Inc.",n/a
+WSR,Whitestone REIT,6.54
+WST,"West Pharmaceutical Services, Inc.",267.03
+WTI,"W&T Offshore, Inc.",2.38
+WTM,"White Mountains Insurance Group, Ltd.",849.9
+WTRG,"Essential Utilities, Inc.",45.26
+WTRU,"Essential Utilities, Inc.",58.97
+WTS,"Watts Water Technologies, Inc.",85.31
+WTTR,"Select Energy Services, Inc.",4.61
+WU,Western Union Company (The),22.75
+WUBA,58.com Inc.,55.18
+WWE,"World Wrestling Entertainment, Inc.",44.91
+WWW,"Wolverine World Wide, Inc.",23.43
+WY,Weyerhaeuser Company,27.48
+WYND,"Wyndham Destinations, Inc.",28.59
+X,United States Steel Corporation,8.1
+XAN,Exantas Capital Corp.,2.25
+XEC,Cimarex Energy Co,25.37
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,5.98
+XHR,"Xenia Hotels & Resorts, Inc.",8.25
+XIN,Xinyuan Real Estate Co Ltd,2.06
+XOM,Exxon Mobil Corporation,44.07
+XPO,"XPO Logistics, Inc.",83.29
+XRX,Xerox Holdings Corporation,15.82
+XYF,X Financial,0.8585
+XYL,Xylem Inc.,75.26
+Y,Alleghany Corporation,524.81
+YELP,Yelp Inc.,24.34
+YETI,"YETI Holdings, Inc.",46.61
+YEXT,"Yext, Inc.",16.37
+YPF,YPF Sociedad Anonima,6.64
+YRD,Yiren Digital Ltd.,3.58
+YUM,"Yum! Brands, Inc.",93.37
+YUMC,"Yum China Holdings, Inc.",53.24
+ZBH,"Zimmer Biomet Holdings, Inc.",134.24
+ZEN,"Zendesk, Inc.",96.31
+ZNH,China Southern Airlines Company Limited,23.15
+ZTO,ZTO Express (Cayman) Inc.,35.61
+ZTR,Virtus Total Return Fund Inc.,8.07
+ZTS,Zoetis Inc.,146.92
+ZUO,"Zuora, Inc.",11.74
+ZYME,Zymeworks Inc.,30.65
+>>>>>>> b4d2d78d99f620a3292025de2790bdcb072328e6
