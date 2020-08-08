@@ -59,6 +59,10 @@ def monkey_returns(DF,diclist):
         for y in x.keys():
             #Sum 
             suma += float(DF[DF['Ticker'] == y]['5yr Return']) * x[y]
+#<<<<<<< HEAD
+#=======
+        suma = suma/len(x.keys())
+#>>>>>>> efdde2f6761dac5735f1a82254e9c92c84765fe9
         returns.append(suma)
 
     return returns
